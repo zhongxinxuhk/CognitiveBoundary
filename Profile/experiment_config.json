@@ -1,0 +1,87 @@
+{
+  "experiment_name": "CognitiveBoundary_Pilot_v1_Local",
+  "random_seed": 20260630,
+  "experiment_metadata": {
+    "target_journal": "Nature",
+    "reproducibility_level": "high",
+    "api_policy": "local_lm_studio",
+    "created_date": "2026-06-30",
+    "description": "Cognitive Boundary Theory pilot experiment using local LM Studio models",
+    "model_update_date": "2026-06-30",
+    "model_update_note": "Local models via LM Studio: qwen3.6-27b and gpt-oss-20b"
+  },
+  "global_api_config": {
+    "use_custom_api_base": true,
+    "default_timeout": 300,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "rate_limit_delay": 1.0
+  },
+  "models": [
+    {
+      "model_id": "qwen3_6_27b_local",
+      "model_name": "qwen/qwen3.6-27b",
+      "model_version": "local",
+      "provider": "LMStudio",
+      "inference_mode": "local",
+      "temperature": 0.0,
+      "top_p": 1.0,
+      "max_output_tokens": 4096,
+      "context_length": 32768,
+      "tool_enabled": false,
+      "api_key_env": "LM_STUDIO_API_KEY",
+      "api_base_env": "LM_STUDIO_API_BASE",
+      "api_base": "http://localhost:1234/v1",
+      "enabled": true,
+      "priority": "primary",
+      "selection_rationale": "Local model: Qwen3.6-27B via LM Studio, 32GB Apple Silicon"
+    },
+    {
+      "model_id": "gpt_oss_20b_local",
+      "model_name": "openai/gpt-oss-20b",
+      "model_version": "local",
+      "provider": "LMStudio",
+      "inference_mode": "local",
+      "temperature": 0.0,
+      "top_p": 1.0,
+      "max_output_tokens": 4096,
+      "context_length": 131072,
+      "tool_enabled": false,
+      "api_key_env": "LM_STUDIO_API_KEY",
+      "api_base_env": "LM_STUDIO_API_BASE",
+      "api_base": "http://localhost:1234/v1",
+      "enabled": true,
+      "priority": "primary",
+      "selection_rationale": "Local model: OpenAI GPT-OSS-20B via LM Studio"
+    }
+  ],
+  "task_sampling": {
+    "knowledge": {
+      "total_samples": 50,
+      "per_complexity": { "L1": 10, "L2": 10, "L3": 10, "L4": 10, "L5": 10 }
+    },
+    "reasoning": {
+      "total_samples": 50,
+      "per_complexity": { "L1": 0, "L2": 17, "L3": 17, "L4": 16, "L5": 0 }
+    },
+    "planning": {
+      "total_samples": 50,
+      "per_complexity": { "L1": 7, "L2": 9, "L3": 11, "L4": 13, "L5": 10 }
+    }
+  },
+  "prompt_templates": {
+    "knowledge": "prompts/knowledge_template.json",
+    "reasoning": "prompts/reasoning_template.json",
+    "planning": "prompts/planning_template.json"
+  },
+  "output_dir": "outputs",
+  "annotations_dir": "annotations",
+  "metrics_dir": "metrics",
+  "logging": {
+    "log_api_calls": true,
+    "log_timestamps": true,
+    "log_model_versions": true,
+    "log_parameters": true,
+    "log_file": "logs/experiment.log"
+  }
+}

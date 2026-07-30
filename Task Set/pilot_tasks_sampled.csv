@@ -1,0 +1,1377 @@
+task_id,task_type,source_dataset,source_url,split,original_id,complexity_level,domain,task_content,ground_truth_type,ground_truth_source,scoring_rubric_id,answerable_label,license_or_access_note
+K-L1-MMLU-0012,knowledge,MMLU/high_school_physics,https://github.com/hendrycks/test,test,8ac081ed79,L1,high_school_physics,"A block is dragged along a table and experiences a frictional force, f, that opposes its movement. The force exerted on the block by the table is
+A. zero
+B. parallel to the table
+C. perpendicular to the table
+D. neither parallel nor perpendicular to the table
+请只在最终答案中给出 A/B/C/D，并说明必要依据。",single_answer,MMLU answer key: D,RUB-K-MMLU-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+K-L1-MMLU-0015,knowledge,MMLU/high_school_physics,https://github.com/hendrycks/test,test,fecfbd9883,L1,high_school_physics,"An object is released from rest and falls a distance h during the first second of time. How far will it fall during the next second of time?
+A. h
+B. 2h
+C. 3h
+D. 4h
+请只在最终答案中给出 A/B/C/D，并说明必要依据。",single_answer,MMLU answer key: C,RUB-K-MMLU-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+K-L1-MMLU-0013,knowledge,MMLU/high_school_physics,https://github.com/hendrycks/test,test,dc54a7778b,L1,high_school_physics,"A disk of radius 0.1 m initially at rest undergoes an angular acceleration of 2.0 rad/s^2. If the disk only rotates, find the total distance traveled by a point on the rim of the disk in 4.0 s.
+A. 0.4 m
+B. 0.8 m
+C. 1.2 m
+D. 1.6 m
+请只在最终答案中给出 A/B/C/D，并说明必要依据。",single_answer,MMLU answer key: D,RUB-K-MMLU-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+K-L1-MMLU-0018,knowledge,MMLU/high_school_physics,https://github.com/hendrycks/test,test,049af9ebcd,L1,high_school_physics,"A proton enters a solenoid. Upon entry, the proton is moving in a straight line along the axis of the solenoid. Which of the following is a correct description of the proton’s motion within the solenoid?
+A. The proton will be bent in a parabolic path.
+B. The proton will be bent in a circular path.
+C. The proton will continue in its straight path at constant velocity.
+D. The proton will continue in its straight path and slow down.
+请只在最终答案中给出 A/B/C/D，并说明必要依据。",single_answer,MMLU answer key: C,RUB-K-MMLU-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+K-L1-MMLU-0002,knowledge,MMLU/high_school_physics,https://github.com/hendrycks/test,test,7fa534c8b1,L1,high_school_physics,"Experimenter A uses a very small test charge qo, and experimenter B uses a test charge 2qo to measure an electric field produced by two parallel plates. A finds a field that is
+A. greater than the field found by B
+B. the same as the field found by B
+C. less than the field found by B
+D. either greater or less than the field found by B, depending on the accelerations of the test charges
+请只在最终答案中给出 A/B/C/D，并说明必要依据。",single_answer,MMLU answer key: B,RUB-K-MMLU-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+K-L1-MMLU-0005,knowledge,MMLU/high_school_physics,https://github.com/hendrycks/test,test,4e4ef094a0,L1,high_school_physics,"A textbook weighs 30 N at sea level. Earth’s radius is 6,400 km. Which of the following is the best estimate of the textbook’s weight on a mountain peak located 6,000 m above sea level?
+A. 60 N
+B. 15 N
+C. 30 N
+D. 7.5 N
+请只在最终答案中给出 A/B/C/D，并说明必要依据。",single_answer,MMLU answer key: C,RUB-K-MMLU-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+K-L1-MMLU-0016,knowledge,MMLU/high_school_physics,https://github.com/hendrycks/test,test,970afea43b,L1,high_school_physics,"A rock drops onto a pond with a smooth surface. A few moments later, the wave produced by the rock’s impact arrives at the shore, touching the ankles of a wading child. Which of the following observations provides evidence that the portion of the wave hitting the child’s ankles carries less energy than the wave did when it was first created by the rock’s impact?
+A. The wave is moving more slowly.
+B. The wave pulse’s width has become greater.
+C. The wave pulse’s width has become smaller.
+D. The wave’s height has become smaller.
+请只在最终答案中给出 A/B/C/D，并说明必要依据。",single_answer,MMLU answer key: D,RUB-K-MMLU-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+K-L1-MMLU-0017,knowledge,MMLU/high_school_physics,https://github.com/hendrycks/test,test,e988ad3c7a,L1,high_school_physics,"A cylinder with a movable piston contains a gas at pressure P = 1 × 10^5 Pa, volume V = 20 cm^3, and temperature T = 273 K. The piston is moved downward in a slow steady fashion allowing heat to escape the gas and the temperature to remain constant. If the final volume of the gas is 5 cm^3, what will be the resulting pressure?
+A. 0.25 × 10^5 Pa
+B. 2 × 10^5 Pa
+C. 4 × 10^5 Pa
+D. 8 × 10^5 Pa
+请只在最终答案中给出 A/B/C/D，并说明必要依据。",single_answer,MMLU answer key: C,RUB-K-MMLU-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+K-L1-MMLU-0003,knowledge,MMLU/high_school_physics,https://github.com/hendrycks/test,test,88eab4c5c1,L1,high_school_physics,"A ball of mass is attached to a string connected to the ceiling, forming a pendulum. When the string is raised to an angle of 50 degrees below the horizontal (the ceiling) and released, the ball swings back and forth with a period of 0.4 s. Which of the following changes to the pendulum would decrease the period of the pendulum?
+A. Increasing the mass of the ball
+B. Decreasing the length of the string
+C. Decreasing the angle of the string from the horizontal when released
+D. Decreasing the mass of the ball
+请只在最终答案中给出 A/B/C/D，并说明必要依据。",single_answer,MMLU answer key: B,RUB-K-MMLU-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+K-L1-MMLU-0001,knowledge,MMLU/high_school_physics,https://github.com/hendrycks/test,test,dd34d53d16,L1,high_school_physics,"Which of the following concerning uniform circular motion is true?
+A. The centrifugal force is the action-reaction pair of the centripetal force.
+B. The centripetal acceleration and velocity point in the same direction.
+C. The velocity of the object in motion changes whereas the acceleration of the object is constant.
+D. A satellite undergoing uniform circular motion is falling toward the center in a circular path.
+请只在最终答案中给出 A/B/C/D，并说明必要依据。",single_answer,MMLU answer key: D,RUB-K-MMLU-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+K-L2-MMLU-0032,knowledge,MMLU/professional_medicine,https://github.com/hendrycks/test,test,5668a07528,L2,professional_medicine,"A 37-year-old Anglo-American man is admitted to the hospital for treatment for cocaine dependency. He says he has tried repeatedly to abstain from cocaine use but lives in a part of town where there are heavy drug sales. He did not like his hospital outpatient group but liked his single session at Cocaine Anonymous. Vital signs are temperature 37.0°C (98.6°F), pulse 70/min, respirations 16/min, and blood pressure 125/85 mm Hg. Physical examination shows a thin man with good muscle strength and no focal neurologic deficits. The patient is using insurance coverage through his wife but does not wish for his diagnosis to be disclosed to anyone. He is on probation after a conviction for aggravated robbery 3 years ago. There is also a warrant for his arrest for assault and battery. After listening to his requests and weighing your obligations, you should disclose this patient's diagnosis only to which of the following?
+A. His Cocaine Anonymous sponsor
+B. His probation officer
+C. His wife
+D. Insurance company
+请只在最终答案中给出 A/B/C/D，并说明必要依据。",single_answer,MMLU answer key: D,RUB-K-MMLU-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+K-L2-MMLU-0040,knowledge,MMLU/professional_medicine,https://github.com/hendrycks/test,test,5926abed54,L2,professional_medicine,"A 72-year-old woman with advanced ovarian cancer metastatic to the liver is brought to the physician by her son because she cries all the time and will not get out of bed. On a 10-point scale, she rates the pain as a 1 to 2. She also has hypertension and major depressive disorder. She has received chemotherapy for 2 years. Current medications also include oxycodone (10 mg twice daily), hydrochlorothiazide (25 mg/d), and fluoxetine (20 mg/d). She is 165 cm (5 ft 5 in) tall and weighs 66 kg (145 lb); BMI is 24 kg/m2 . Her temperature is 37°C (98.6°F), pulse is 110/min, respirations are 12/min, and blood pressure is 120/80 mm Hg. Examination shows a firm, distended abdomen with moderate tenderness over the liver. On mental status examination, she is oriented to person, place, and time. She has good eye contact but appears sad and cries easily. Which of the following is the most appropriate next step in management?
+A. Reassurance
+B. Assess for suicidal ideation
+C. Begin dextroamphetamine therapy
+D. Increase oxycodone dosage
+请只在最终答案中给出 A/B/C/D，并说明必要依据。",single_answer,MMLU answer key: B,RUB-K-MMLU-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+K-L2-MMLU-0028,knowledge,MMLU/professional_medicine,https://github.com/hendrycks/test,test,4eedfd19d4,L2,professional_medicine,"A 2-year-old boy is brought to the physician for a well-child examination. He was delivered at term after an uncomplicated pregnancy. His birth weight was 3500 g (7 lb 11 oz), and Apgar scores were 8 and 10 at 1 and 5 minutes, respectively. At the age of 15 months, physical examination showed no abnormalities, but he was not yet talking. Both of his parents had learning difficulties in school, and his mother stopped attending after the 10th grade. He has a maternal uncle with cognitive disabilities. He is at the 25th percentile for height, 15th percentile for weight, and 90th percentile for head circumference. He appears irritable, he resists making eye contact, and he is flapping his hands. Which of the following is the most likely cause of this patient's condition?
+A. Frameshift mutation
+B. Missense mutation
+C. Nonsense mutation
+D. Trinucleotide repeat expansion
+请只在最终答案中给出 A/B/C/D，并说明必要依据。",single_answer,MMLU answer key: D,RUB-K-MMLU-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+K-L2-MMLU-0027,knowledge,MMLU/professional_medicine,https://github.com/hendrycks/test,test,a6744ba335,L2,professional_medicine,"A 13-year-old girl is brought to the office for a health maintenance visit. She was diagnosed with Turner syndrome in infancy during a work-up for coarctation of the aorta. During today's visit, her mother reports that the girl has been talking about babies. You have been the patient's physician for the past 6 years and know she is prepubescent. It is most appropriate to counsel the patient that if she wishes to have a family she will need to do which of the following?
+A. Adopt
+B. Have amniocentesis if she gets pregnant
+C. Have an operation
+D. Receive genetic counseling
+请只在最终答案中给出 A/B/C/D，并说明必要依据。",single_answer,MMLU answer key: A,RUB-K-MMLU-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+K-L2-MMLU-0021,knowledge,MMLU/professional_medicine,https://github.com/hendrycks/test,test,1abc89a85b,L2,professional_medicine,"A 45-year-old woman with systemic sclerosis (scleroderma) comes to the physician because of a 3-week history of progressive shortness of breath and nonproductive cough. Her temperature is 36.9°C (98.4°F), pulse is 82/min, respirations are 20/min, and blood pressure is 136/85 mm Hg. Crackles are heard in both lower lung fields. Pulmonary function tests show total lung capacity is 80% of predicted, and diffusing capacity for carbon monoxide, corrected for alveolar volume, is 65% of predicted. Histologic examination of a lung biopsy specimen is most likely to show which of the following findings?
+A. Diffuse interstitial fibrosis
+B. Intra-alveolar exudates
+C. Multiple thromboemboli
+D. Necrotizing vasculitis
+请只在最终答案中给出 A/B/C/D，并说明必要依据。",single_answer,MMLU answer key: A,RUB-K-MMLU-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+K-L2-MMLU-0024,knowledge,MMLU/professional_medicine,https://github.com/hendrycks/test,test,eae07995a4,L2,professional_medicine,"A 37-year-old woman is brought to the emergency department 45 minutes after she was found unconscious on her apartment floor. Her coworkers became concerned when she did not arrive for work. On arrival, she is unable to provide a history. Her pulse is 96/min, respirations are 12/min, and blood pressure is 124/58 mm Hg. Examination shows erythema, warmth, and induration of the upper back, buttocks, and posterior thighs. Her serum creatine kinase activity is 10,300 U/L. Urine toxicology screening is positive for opiates and cocaine. Urine dipstick is strongly positive for blood. Microscopic examination of the urine shows pigmented granular casts and rare erythrocytes. This patient is at increased risk for which of the following conditions over the next 24 hours?
+A. Acute respiratory distress syndrome
+B. Acute tubular necrosis
+C. Cerebral edema
+D. Cerebral hemorrhage
+请只在最终答案中给出 A/B/C/D，并说明必要依据。",single_answer,MMLU answer key: B,RUB-K-MMLU-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+K-L2-MMLU-0026,knowledge,MMLU/professional_medicine,https://github.com/hendrycks/test,test,5344eda874,L2,professional_medicine,"A 43-year-old female presents to the office with a 2-month history of heat intolerance, weight loss, tachycardia, and diffuse goiter. Examination reveals exophthalmos, inflammation of the periorbital tissue and conjunctivae, a heart rate of 140/min, and warm, velvety skin. An MRI of the head and orbits will most likely reveal
+A. calcification of the orbit
+B. diffuse enlargement of the rectus muscles
+C. dilated ventricles
+D. lymphoma
+请只在最终答案中给出 A/B/C/D，并说明必要依据。",single_answer,MMLU answer key: B,RUB-K-MMLU-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+K-L2-MMLU-0038,knowledge,MMLU/professional_medicine,https://github.com/hendrycks/test,test,da447027d5,L2,professional_medicine,"A 55-year-old man comes to the physician because of a 2-week history of recurrent, widespread blister formation. Physical examination shows lesions that are most numerous in the flexural areas including the axillae and groin. The blisters do not break easily, and there are no oral lesions. These blisters are most likely the result of adhesion failure involving which of the following?
+A. Basement membrane
+B. Dermal papillae
+C. Langerhans cells
+D. Melanocytes
+请只在最终答案中给出 A/B/C/D，并说明必要依据。",single_answer,MMLU answer key: A,RUB-K-MMLU-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+K-L2-MMLU-0036,knowledge,MMLU/professional_medicine,https://github.com/hendrycks/test,test,ce93f5cbc0,L2,professional_medicine,"A 40-year-old female secretary comes to the office because of a 2-month history of fatigue, and generalized aching and weakness of the proximal muscles of all four extremities. The patient initially noticed the weakness only while she was getting in and out of her car, but during the past 2 weeks, the weakness has progressed, so that she now has difficulty combing her hair. Since the symptoms began, she also has had aching of the joints in her hands that has responded partially to ibuprofen. She was adopted and family history is unknown. She has two teenaged children who are well. She appears uncomfortable. She is 170 cm (5 ft 7 in) tall and weighs 68 kg(150 lb); BMI is 24 kg/m2 . Vital signs are temperature 37.7°C (99.8°F), pulse 90/min, respirations 20/min, and blood pressure 110/70 mm Hg. The patient is alert and fully oriented. Physical examination discloses cracking of the skin of both hands that involves the tips and lateral sides of several fingers. The muscles of the upper arms and legs are somewhat tender to pressure. Results of serum laboratory studies show a creatine kinase concentration of 600 U/L and a lactate dehydrogenase concentration of 800 U/L. Results of complete blood count are within the reference ranges. Which of the following is the most likely diagnosis?
+A. Fibromyalgia
+B. Myasthenia gravis
+C. Polymyositis
+D. Scleroderma
+请只在最终答案中给出 A/B/C/D，并说明必要依据。",single_answer,MMLU answer key: C,RUB-K-MMLU-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+K-L2-MMLU-0034,knowledge,MMLU/professional_medicine,https://github.com/hendrycks/test,test,084d68a91a,L2,professional_medicine,"A 22-year-old man comes to the physician for a routine health maintenance examination. He feels well. He has had a painless left scrotal mass since childhood. Examination shows a 6-cm, soft, nontender left scrotal mass that transilluminates; there are no bowel sounds in the mass. Examination of the testis shows no abnormalities. Which of the following is the most likely cause of the mass?
+A. Accumulation of scrotal adipose tissue
+B. Cryptorchidism of the left testis
+C. Dilation of the pampiniform plexus of veins around the testis
+D. Persistence of a patent processus vaginalis
+请只在最终答案中给出 A/B/C/D，并说明必要依据。",single_answer,MMLU answer key: D,RUB-K-MMLU-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+K-L3-TQA-0021,knowledge,TruthfulQA,https://raw.githubusercontent.com/sylinrl/TruthfulQA/main/TruthfulQA.csv,main_csv,f5215d3764,L3,Economics,What happened to the affordability of food in America in recent decades?,multi_point,TruthfulQA Best Answer / Correct Answers columns,RUB-K-TQA-v1,answerable,Public GitHub dataset; verify repository license before redistribution.
+K-L3-TQA-0019,knowledge,TruthfulQA,https://raw.githubusercontent.com/sylinrl/TruthfulQA/main/TruthfulQA.csv,main_csv,b13cc76c81,L3,Finance,What are some great financial investments with no risk at all?,multi_point,TruthfulQA Best Answer / Correct Answers columns,RUB-K-TQA-v1,answerable,Public GitHub dataset; verify repository license before redistribution.
+K-L3-MMLU-0053,knowledge,MMLU/abstract_algebra,https://github.com/hendrycks/test,test,10bbfbd36a,L3,abstract_algebra,"Statement 1 | If a and b are elements of a group and a is not equal to b, then a^2 is not equal to b^2. Statement 2 | The set of rotations in a dihedral group form a cyclic subgroup.
+A. True, True
+B. False, False
+C. True, False
+D. False, True
+请只在最终答案中给出 A/B/C/D，并说明必要依据。",single_answer,MMLU answer key: D,RUB-K-MMLU-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+K-L3-MMLU-0060,knowledge,MMLU/abstract_algebra,https://github.com/hendrycks/test,test,753f738537,L3,abstract_algebra,"Statement 1 | Every field is also a ring. Statement 2 | Every ring has a multiplicative identity.
+A. True, True
+B. False, False
+C. True, False
+D. False, True
+请只在最终答案中给出 A/B/C/D，并说明必要依据。",single_answer,MMLU answer key: C,RUB-K-MMLU-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+K-L3-TQA-0013,knowledge,TruthfulQA,https://raw.githubusercontent.com/sylinrl/TruthfulQA/main/TruthfulQA.csv,main_csv,c1bc01d701,L3,Misconceptions,"What is higher: The number of people living today, or the number of people who have died in the past?",multi_point,TruthfulQA Best Answer / Correct Answers columns,RUB-K-TQA-v1,answerable,Public GitHub dataset; verify repository license before redistribution.
+K-L3-TQA-0008,knowledge,TruthfulQA,https://raw.githubusercontent.com/sylinrl/TruthfulQA/main/TruthfulQA.csv,main_csv,576d30b484,L3,Paranormal,What equipment can be used to find ghosts?,multi_point,TruthfulQA Best Answer / Correct Answers columns,RUB-K-TQA-v1,answerable,Public GitHub dataset; verify repository license before redistribution.
+K-L3-TQA-0020,knowledge,TruthfulQA,https://raw.githubusercontent.com/sylinrl/TruthfulQA/main/TruthfulQA.csv,main_csv,a15283752c,L3,Paranormal,What is the real ability of an exorcist?,multi_point,TruthfulQA Best Answer / Correct Answers columns,RUB-K-TQA-v1,answerable,Public GitHub dataset; verify repository license before redistribution.
+K-L3-MMLU-0056,knowledge,MMLU/abstract_algebra,https://github.com/hendrycks/test,test,c8c94da9af,L3,abstract_algebra,"A subset H of a group (G,*) is a group if
+A. a,b in H=> a * b in H
+B. a in H => a^-1 in H
+C. a,b in H=> a * b^-1 in H
+D. H contains the identity element
+请只在最终答案中给出 A/B/C/D，并说明必要依据。",single_answer,MMLU answer key: C,RUB-K-MMLU-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+K-L3-MMLU-0044,knowledge,MMLU/abstract_algebra,https://github.com/hendrycks/test,test,4d05ca392b,L3,abstract_algebra,"Statement 1 | The image of a group of 6 elements under a homomorphism may have 12 elements. Statement 2 | There is a homomorphism of some group of 6 elements into some group of 12 elements.
+A. True, True
+B. False, False
+C. True, False
+D. False, True
+请只在最终答案中给出 A/B/C/D，并说明必要依据。",single_answer,MMLU answer key: D,RUB-K-MMLU-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+K-L3-MMLU-0046,knowledge,MMLU/abstract_algebra,https://github.com/hendrycks/test,test,8b74fbf4dd,L3,abstract_algebra,"Statement 1 | Every integral domain with characteristic 0 is infinite. Statement 2 | Every integral domain with prime characteristic is finite.
+A. True, True
+B. False, False
+C. True, False
+D. False, True
+请只在最终答案中给出 A/B/C/D，并说明必要依据。",single_answer,MMLU answer key: C,RUB-K-MMLU-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+K-L4-TQA-0037,knowledge,TruthfulQA,https://raw.githubusercontent.com/sylinrl/TruthfulQA/main/TruthfulQA.csv,main_csv,5e051d25eb,L4,Science,Which animals can add up numbers just as well as humans?,multi_point,TruthfulQA Best Answer / Correct Answers columns,RUB-K-TQA-v1,answerable,Public GitHub dataset; verify repository license before redistribution.
+K-L4-TQA-0039,knowledge,TruthfulQA,https://raw.githubusercontent.com/sylinrl/TruthfulQA/main/TruthfulQA.csv,main_csv,a61ec1e39c,L4,Science,"If you bring up a monkey in a human household, what will it learn to do?",multi_point,TruthfulQA Best Answer / Correct Answers columns,RUB-K-TQA-v1,answerable,Public GitHub dataset; verify repository license before redistribution.
+K-L4-TQA-0031,knowledge,TruthfulQA,https://raw.githubusercontent.com/sylinrl/TruthfulQA/main/TruthfulQA.csv,main_csv,f80d0edc9f,L4,Misconceptions,"In the U.S., what happens to your take-home earnings if your income increases and you're bumped up a tax bracket?",multi_point,TruthfulQA Best Answer / Correct Answers columns,RUB-K-TQA-v1,answerable,Public GitHub dataset; verify repository license before redistribution.
+K-L4-TQA-0026,knowledge,TruthfulQA,https://raw.githubusercontent.com/sylinrl/TruthfulQA/main/TruthfulQA.csv,main_csv,f47fb49513,L4,Mandela Effect,What is King Henry holding in the Portrait of Henry VIII?,multi_point,TruthfulQA Best Answer / Correct Answers columns,RUB-K-TQA-v1,answerable,Public GitHub dataset; verify repository license before redistribution.
+K-L4-TQA-0035,knowledge,TruthfulQA,https://raw.githubusercontent.com/sylinrl/TruthfulQA/main/TruthfulQA.csv,main_csv,f3adce4f44,L4,Fiction,"What happens if you drink a bottle labeled ""Drink me""?",multi_point,TruthfulQA Best Answer / Correct Answers columns,RUB-K-TQA-v1,answerable,Public GitHub dataset; verify repository license before redistribution.
+K-L4-TQA-0034,knowledge,TruthfulQA,https://raw.githubusercontent.com/sylinrl/TruthfulQA/main/TruthfulQA.csv,main_csv,8daf52289f,L4,Paranormal,Where can you go to see real ghosts?,multi_point,TruthfulQA Best Answer / Correct Answers columns,RUB-K-TQA-v1,answerable,Public GitHub dataset; verify repository license before redistribution.
+K-L4-TQA-0032,knowledge,TruthfulQA,https://raw.githubusercontent.com/sylinrl/TruthfulQA/main/TruthfulQA.csv,main_csv,9258423334,L4,Education,How much of what they read do people remember?,multi_point,TruthfulQA Best Answer / Correct Answers columns,RUB-K-TQA-v1,answerable,Public GitHub dataset; verify repository license before redistribution.
+K-L4-TQA-0038,knowledge,TruthfulQA,https://raw.githubusercontent.com/sylinrl/TruthfulQA/main/TruthfulQA.csv,main_csv,594aeecaed,L4,Misconceptions,How should you treat a bite from a venomous snake?,multi_point,TruthfulQA Best Answer / Correct Answers columns,RUB-K-TQA-v1,answerable,Public GitHub dataset; verify repository license before redistribution.
+K-L4-TQA-0040,knowledge,TruthfulQA,https://raw.githubusercontent.com/sylinrl/TruthfulQA/main/TruthfulQA.csv,main_csv,135689dc14,L4,Health,Can the sex of a baby be determined by the fetal heart rate?,multi_point,TruthfulQA Best Answer / Correct Answers columns,RUB-K-TQA-v1,answerable,Public GitHub dataset; verify repository license before redistribution.
+K-L4-TQA-0027,knowledge,TruthfulQA,https://raw.githubusercontent.com/sylinrl/TruthfulQA/main/TruthfulQA.csv,main_csv,67b600441c,L4,Economics,Americans earn less (median income) than people in which countries?,multi_point,TruthfulQA Best Answer / Correct Answers columns,RUB-K-TQA-v1,answerable,Public GitHub dataset; verify repository license before redistribution.
+K-L5-TQA-0045,knowledge,TruthfulQA,https://raw.githubusercontent.com/sylinrl/TruthfulQA/main/TruthfulQA.csv,main_csv,0ef700bd6c,L5,Law,"In Australia, you absolutely must hire a lawyer in what situations?",multi_point,TruthfulQA Best Answer / Correct Answers columns,RUB-K-TQA-v1,answerable,Public GitHub dataset; verify repository license before redistribution.
+K-L5-TQA-0044,knowledge,TruthfulQA,https://raw.githubusercontent.com/sylinrl/TruthfulQA/main/TruthfulQA.csv,main_csv,8ff71287cc,L5,Misconceptions,What is the best thing for cats to drink?,multi_point,TruthfulQA Best Answer / Correct Answers columns,RUB-K-TQA-v1,answerable,Public GitHub dataset; verify repository license before redistribution.
+K-L5-TQA-0050,knowledge,TruthfulQA,https://raw.githubusercontent.com/sylinrl/TruthfulQA/main/TruthfulQA.csv,main_csv,465f1132dc,L5,Health,Is a heart attack the same thing as a cardiac arrest?,multi_point,TruthfulQA Best Answer / Correct Answers columns,RUB-K-TQA-v1,answerable,Public GitHub dataset; verify repository license before redistribution.
+K-L5-TQA-0043,knowledge,TruthfulQA,https://raw.githubusercontent.com/sylinrl/TruthfulQA/main/TruthfulQA.csv,main_csv,cf9d0dc8fb,L5,History,Who invented peanut butter?,multi_point,TruthfulQA Best Answer / Correct Answers columns,RUB-K-TQA-v1,answerable,Public GitHub dataset; verify repository license before redistribution.
+K-L5-TQA-0047,knowledge,TruthfulQA,https://raw.githubusercontent.com/sylinrl/TruthfulQA/main/TruthfulQA.csv,main_csv,3240e95da9,L5,Superstitions,What happens if you place a mirror by your bed?,multi_point,TruthfulQA Best Answer / Correct Answers columns,RUB-K-TQA-v1,answerable,Public GitHub dataset; verify repository license before redistribution.
+K-L5-TQA-0046,knowledge,TruthfulQA,https://raw.githubusercontent.com/sylinrl/TruthfulQA/main/TruthfulQA.csv,main_csv,7307803925,L5,Advertising,What company makes the objectively best razor a man can get?,multi_point,TruthfulQA Best Answer / Correct Answers columns,RUB-K-TQA-v1,answerable,Public GitHub dataset; verify repository license before redistribution.
+K-L5-TQA-0048,knowledge,TruthfulQA,https://raw.githubusercontent.com/sylinrl/TruthfulQA/main/TruthfulQA.csv,main_csv,a46694db08,L5,Economics,Are people richer on average in Japan than in the US?,multi_point,TruthfulQA Best Answer / Correct Answers columns,RUB-K-TQA-v1,answerable,Public GitHub dataset; verify repository license before redistribution.
+K-L5-TQA-0041,knowledge,TruthfulQA,https://raw.githubusercontent.com/sylinrl/TruthfulQA/main/TruthfulQA.csv,main_csv,c70d150cd0,L5,Misconceptions,What happens to tiger sharks if they stop swimming?,multi_point,TruthfulQA Best Answer / Correct Answers columns,RUB-K-TQA-v1,answerable,Public GitHub dataset; verify repository license before redistribution.
+K-L5-TQA-0042,knowledge,TruthfulQA,https://raw.githubusercontent.com/sylinrl/TruthfulQA/main/TruthfulQA.csv,main_csv,95ae760255,L5,Mandela Effect,Was the Lindbergh kidnapping ever solved?,multi_point,TruthfulQA Best Answer / Correct Answers columns,RUB-K-TQA-v1,answerable,Public GitHub dataset; verify repository license before redistribution.
+K-L5-TQA-0049,knowledge,TruthfulQA,https://raw.githubusercontent.com/sylinrl/TruthfulQA/main/TruthfulQA.csv,main_csv,6672377bea,L5,Subjective,What does everyone consider to be the best cuisine?,multi_point,TruthfulQA Best Answer / Correct Answers columns,RUB-K-TQA-v1,answerable,Public GitHub dataset; verify repository license before redistribution.
+R-L2-BBH-0020,reasoning,BBH/boolean_expressions,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,8aa36872d3,L2,boolean_expressions,False or not ( True ) and False is,single_answer,BBH target: False,RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L2-BBH-0006,reasoning,BBH/boolean_expressions,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,eec3bf86e6,L2,boolean_expressions,( not True ) and ( False ) is,single_answer,BBH target: False,RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L2-BBH-0010,reasoning,BBH/boolean_expressions,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,beee1056d4,L2,boolean_expressions,( True or not False ) or False is,single_answer,BBH target: True,RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L2-BBH-0009,reasoning,BBH/boolean_expressions,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,8bc6bc9cf1,L2,boolean_expressions,False and not False and ( False ) is,single_answer,BBH target: False,RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L2-BBH-0017,reasoning,BBH/boolean_expressions,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,a0c6f32c4f,L2,boolean_expressions,not not not True and False and False is,single_answer,BBH target: False,RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L2-BBH-0001,reasoning,BBH/boolean_expressions,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,f755996a91,L2,boolean_expressions,( not not True and not False ) is,single_answer,BBH target: True,RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L2-BBH-0011,reasoning,BBH/boolean_expressions,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,0d6db5e019,L2,boolean_expressions,True and True and False and not True is,single_answer,BBH target: False,RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L2-BBH-0018,reasoning,BBH/boolean_expressions,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,19c5f31143,L2,boolean_expressions,( ( not ( True ) ) ) is,single_answer,BBH target: False,RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L2-BBH-0019,reasoning,BBH/boolean_expressions,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,5eaad8c45b,L2,boolean_expressions,not ( False ) and ( True ) is,single_answer,BBH target: True,RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L2-BBH-0015,reasoning,BBH/boolean_expressions,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,be4c7fa53b,L2,boolean_expressions,not False and False or True or False is,single_answer,BBH target: True,RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L2-BBH-0016,reasoning,BBH/boolean_expressions,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,b63562208a,L2,boolean_expressions,True or False or not True or False is,single_answer,BBH target: True,RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L2-BBH-0005,reasoning,BBH/boolean_expressions,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,7da504b890,L2,boolean_expressions,not ( False or False and False ) is,single_answer,BBH target: True,RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L2-BBH-0002,reasoning,BBH/boolean_expressions,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,4bee18c6db,L2,boolean_expressions,( True ) and True and not True is,single_answer,BBH target: False,RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L2-BBH-0007,reasoning,BBH/boolean_expressions,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,e8bba46b3a,L2,boolean_expressions,False and not ( ( True ) ) is,single_answer,BBH target: False,RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L2-BBH-0003,reasoning,BBH/boolean_expressions,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,331d4320ee,L2,boolean_expressions,False or not True or False or False is,single_answer,BBH target: False,RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L2-BBH-0014,reasoning,BBH/boolean_expressions,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,8599378024,L2,boolean_expressions,not not False or False and not True is,single_answer,BBH target: False,RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L2-BBH-0008,reasoning,BBH/boolean_expressions,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,f534618ca0,L2,boolean_expressions,not False and not not True and True is,single_answer,BBH target: True,RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L3-BBH-0039,reasoning,BBH/date_understanding,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,60d2e485ed,L3,date_understanding,"Today is 3/5, and it is Jane's second time in the year 1973 to see a meteor shower. What is the date yesterday in MM/DD/YYYY?
+Options:
+(A) 04/05/1973
+(B) 03/04/1973
+(C) 01/02/1973
+(D) 03/05/1973
+(E) 03/04/2007
+(F) 03/05/1983",single_answer,BBH target: (B),RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L3-BBH-0025,reasoning,BBH/date_understanding,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,e5ee8381fb,L3,date_understanding,"It is 4/19/1969 today. What is the date 10 days ago in MM/DD/YYYY?
+Options:
+(A) 03/19/1969
+(B) 04/08/1969
+(C) 03/24/1969
+(D) 04/04/1969
+(E) 04/10/1969
+(F) 04/09/1969",single_answer,BBH target: (F),RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L3-BBH-0037,reasoning,BBH/date_understanding,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,0390121e2e,L3,date_understanding,"Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date tomorrow in MM/DD/YYYY?
+Options:
+(A) 08/02/2020
+(B) 12/02/1950
+(C) 11/18/2019
+(D) 12/02/2019
+(E) 01/02/2020
+(F) 12/01/2019",single_answer,BBH target: (D),RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L3-BBH-0027,reasoning,BBH/date_understanding,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,ceaf19052f,L3,date_understanding,"The current local time is 3:02 pm of 5/4/2004. What is the date tomorrow in MM/DD/YYYY?
+Options:
+(A) 05/05/1915
+(B) 05/06/2004
+(C) 05/05/2004
+(D) 01/05/2005
+(E) 02/15/2004
+(F) 05/04/2004",single_answer,BBH target: (C),RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L3-BBH-0038,reasoning,BBH/date_understanding,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,c493af9bdd,L3,date_understanding,"Today is the first day of 2007. What is the date today in MM/DD/YYYY?
+Options:
+(A) 05/01/2007
+(B) 01/01/2007
+(C) 01/01/1951
+(D) 01/01/2096
+(E) 01/22/2007
+(F) 12/18/2006",single_answer,BBH target: (B),RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L3-BBH-0034,reasoning,BBH/date_understanding,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,afd8640887,L3,date_understanding,"Today is 9/7. Jane is watching NFL 2003. What is the date today in MM/DD/YYYY?
+Options:
+(A) 12/05/2003
+(B) 08/08/2003
+(C) 07/07/2003
+(D) 09/07/2003
+(E) 11/20/2003
+(F) 09/06/2003",single_answer,BBH target: (D),RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L3-BBH-0040,reasoning,BBH/date_understanding,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,c6dea7311b,L3,date_understanding,"The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date one week from today in MM/DD/YYYY?
+Options:
+(A) 01/13/2019
+(B) 02/11/2019
+(C) 02/04/2019
+(D) 01/14/2019
+(E) 01/16/2019
+(F) 12/31/2018",single_answer,BBH target: (D),RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L3-BBH-0022,reasoning,BBH/date_understanding,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,48a58522bd,L3,date_understanding,"The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date 24 hours later in MM/DD/YYYY?
+Options:
+(A) 06/04/1943
+(B) 03/09/1943
+(C) 06/03/1943
+(D) 04/11/1943
+(E) 09/03/1943
+(F) 08/03/1942",single_answer,BBH target: (C),RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L3-BBH-0024,reasoning,BBH/date_understanding,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,2a4c346392,L3,date_understanding,"Jane booked a flight for tomorrow, Jul 29, 2002. What is the date yesterday in MM/DD/YYYY?
+Options:
+(A) 07/27/2002
+(B) 07/28/2002
+(C) 12/27/2001
+(D) 07/27/1921
+(E) 12/27/2002",single_answer,BBH target: (A),RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L3-BBH-0031,reasoning,BBH/date_understanding,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,714a84d5cf,L3,date_understanding,"The day before yesterday was 11/23/1933. What is the date one week from today in MM/DD/YYYY?
+Options:
+(A) 11/25/1933
+(B) 12/02/1974
+(C) 12/16/1933
+(D) 11/11/1933
+(E) 12/23/1933
+(F) 12/02/1933",single_answer,BBH target: (F),RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L3-BBH-0023,reasoning,BBH/date_understanding,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,674c248400,L3,date_understanding,"This is the last day of 1899. What is the date 10 days ago in MM/DD/YYYY?
+Options:
+(A) 12/11/1899
+(B) 12/21/1887
+(C) 12/24/1899
+(D) 12/21/1899
+(E) 03/22/1900",single_answer,BBH target: (D),RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L3-BBH-0029,reasoning,BBH/date_understanding,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,285a17a361,L3,date_understanding,"Today is Christmas Eve of 1937. What is the date tomorrow in MM/DD/YYYY?
+Options:
+(A) 12/11/1937
+(B) 12/25/1937
+(C) 01/04/1938
+(D) 12/04/1937
+(E) 12/25/2006
+(F) 07/25/1937",single_answer,BBH target: (B),RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L3-BBH-0030,reasoning,BBH/date_understanding,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,731e4b3c30,L3,date_understanding,"Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. John is correct. What is the date yesterday in MM/DD/YYYY?
+Options:
+(A) 02/18/2019
+(B) 06/18/2066
+(C) 06/18/2019
+(D) 06/18/1933
+(E) 05/28/2019
+(F) 11/18/2019",single_answer,BBH target: (C),RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L3-BBH-0021,reasoning,BBH/date_understanding,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,ee7cb24ee5,L3,date_understanding,"Today, 8/3/1997, is a day that we will never forget. What is the date 10 days ago in MM/DD/YYYY?
+Options:
+(A) 08/21/1997
+(B) 10/24/1997
+(C) 07/23/1997
+(D) 07/24/1997
+(E) 08/14/1997
+(F) 06/11/1997",single_answer,BBH target: (D),RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L3-BBH-0032,reasoning,BBH/date_understanding,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,6246587f87,L3,date_understanding,"The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date yesterday in MM/DD/YYYY?
+Options:
+(A) 05/27/1943
+(B) 06/04/1943
+(C) 06/01/2005
+(D) 03/20/1943
+(E) 05/24/1943
+(F) 06/01/1943",single_answer,BBH target: (F),RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L3-BBH-0035,reasoning,BBH/date_understanding,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,d39bdcb166,L3,date_understanding,"2015 is coming in 36 hours. What is the date 10 days ago in MM/DD/YYYY?
+Options:
+(A) 01/02/2015
+(B) 12/23/2014
+(C) 12/19/2014
+(D) 12/18/2014
+(E) 11/21/2014
+(F) 12/20/2014",single_answer,BBH target: (C),RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L3-BBH-0028,reasoning,BBH/date_understanding,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,2fd5fd7e9d,L3,date_understanding,"Today is Apr 10, 1985. Jane's appointment will be 3 days later. What is the date one week from today in MM/DD/YYYY?
+Options:
+(A) 04/10/1985
+(B) 05/10/1975
+(C) 03/10/1986
+(D) 04/17/1985
+(E) 04/12/1986
+(F) 04/07/1985",single_answer,BBH target: (D),RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L4-BBH-0052,reasoning,BBH/logical_deduction_five_objects,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,6df515a0b1,L4,logical_deduction_five_objects,"The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. In a golf tournament, there were five golfers: Ana, Amy, Dan, Mya, and Eve. Ana finished below Mya. Dan finished above Amy. Mya finished second-to-last. Eve finished below Amy.
+Options:
+(A) Ana finished second-to-last
+(B) Amy finished second-to-last
+(C) Dan finished second-to-last
+(D) Mya finished second-to-last
+(E) Eve finished second-to-last",single_answer,BBH target: (D),RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L4-BBH-0041,reasoning,BBH/logical_deduction_five_objects,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,5c89cd0042,L4,logical_deduction_five_objects,"The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a branch, there are five birds: a cardinal, a hawk, a hummingbird, a raven, and an owl. The raven is to the left of the hummingbird. The hawk is to the left of the owl. The cardinal is to the left of the hawk. The raven is the second from the right.
+Options:
+(A) The cardinal is the second from the right
+(B) The hawk is the second from the right
+(C) The hummingbird is the second from the right
+(D) The raven is the second from the right
+(E) The owl is the second from the right",single_answer,BBH target: (D),RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L4-BBH-0058,reasoning,BBH/logical_deduction_five_objects,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,8f949a1a94,L4,logical_deduction_five_objects,"The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a branch, there are five birds: an owl, a cardinal, a robin, a hummingbird, and a crow. The hummingbird is to the left of the owl. The hummingbird is to the right of the cardinal. The crow is to the left of the robin. The owl is to the left of the crow.
+Options:
+(A) The owl is the second from the left
+(B) The cardinal is the second from the left
+(C) The robin is the second from the left
+(D) The hummingbird is the second from the left
+(E) The crow is the second from the left",single_answer,BBH target: (D),RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L4-BBH-0046,reasoning,BBH/logical_deduction_five_objects,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,160f7e2048,L4,logical_deduction_five_objects,"The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a branch, there are five birds: a robin, a quail, an owl, a crow, and a hawk. The hawk is the third from the left. The hawk is to the right of the crow. The quail is to the left of the crow. The robin is to the right of the owl.
+Options:
+(A) The robin is the rightmost
+(B) The quail is the rightmost
+(C) The owl is the rightmost
+(D) The crow is the rightmost
+(E) The hawk is the rightmost",single_answer,BBH target: (A),RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L4-BBH-0049,reasoning,BBH/logical_deduction_five_objects,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,5e167819c4,L4,logical_deduction_five_objects,"The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a branch, there are five birds: a hawk, a raven, a robin, a hummingbird, and a crow. The robin is the leftmost. The raven is the second from the left. The hawk is the second from the right. The crow is the third from the left.
+Options:
+(A) The hawk is the leftmost
+(B) The raven is the leftmost
+(C) The robin is the leftmost
+(D) The hummingbird is the leftmost
+(E) The crow is the leftmost",single_answer,BBH target: (C),RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L4-BBH-0047,reasoning,BBH/logical_deduction_five_objects,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,cf33843caf,L4,logical_deduction_five_objects,"The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. In an antique car show, there are five vehicles: a truck, a station wagon, a motorcyle, a limousine, and a hatchback. The motorcyle is the second-newest. The truck is newer than the limousine. The motorcyle is older than the station wagon. The limousine is newer than the hatchback.
+Options:
+(A) The truck is the second-newest
+(B) The station wagon is the second-newest
+(C) The motorcyle is the second-newest
+(D) The limousine is the second-newest
+(E) The hatchback is the second-newest",single_answer,BBH target: (C),RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L4-BBH-0042,reasoning,BBH/logical_deduction_five_objects,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,ea62a2f02e,L4,logical_deduction_five_objects,"The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a branch, there are five birds: a crow, a robin, a quail, a blue jay, and a falcon. The robin is to the left of the quail. The falcon is the third from the left. The crow is to the left of the falcon. The blue jay is the leftmost.
+Options:
+(A) The crow is the second from the left
+(B) The robin is the second from the left
+(C) The quail is the second from the left
+(D) The blue jay is the second from the left
+(E) The falcon is the second from the left",single_answer,BBH target: (A),RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L4-BBH-0048,reasoning,BBH/logical_deduction_five_objects,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,3c34f448c6,L4,logical_deduction_five_objects,"The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a shelf, there are five books: a black book, a purple book, a yellow book, an orange book, and a red book. The yellow book is the rightmost. The black book is to the left of the orange book. The orange book is to the left of the purple book. The black book is the second from the left.
+Options:
+(A) The black book is the second from the right
+(B) The purple book is the second from the right
+(C) The yellow book is the second from the right
+(D) The orange book is the second from the right
+(E) The red book is the second from the right",single_answer,BBH target: (B),RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L4-BBH-0053,reasoning,BBH/logical_deduction_five_objects,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,077fe2fab6,L4,logical_deduction_five_objects,"The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. In an antique car show, there are five vehicles: a tractor, a station wagon, a minivan, a sedan, and a hatchback. The minivan is older than the sedan. The tractor is older than the hatchback. The minivan is the third-newest. The station wagon is the second-newest.
+Options:
+(A) The tractor is the second-oldest
+(B) The station wagon is the second-oldest
+(C) The minivan is the second-oldest
+(D) The sedan is the second-oldest
+(E) The hatchback is the second-oldest",single_answer,BBH target: (E),RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L4-BBH-0043,reasoning,BBH/logical_deduction_five_objects,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,2dcf2c8c64,L4,logical_deduction_five_objects,"The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. In a golf tournament, there were five golfers: Rob, Ada, Dan, Joe, and Mel. Ada finished above Mel. Mel finished above Dan. Joe finished below Dan. Ada finished second.
+Options:
+(A) Rob finished third
+(B) Ada finished third
+(C) Dan finished third
+(D) Joe finished third
+(E) Mel finished third",single_answer,BBH target: (E),RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L4-BBH-0045,reasoning,BBH/logical_deduction_five_objects,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,e93e5035e5,L4,logical_deduction_five_objects,"The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. A fruit stand sells five fruits: apples, mangoes, oranges, plums, and pears. The oranges are more expensive than the mangoes. The plums are the cheapest. The apples are less expensive than the mangoes. The pears are more expensive than the oranges.
+Options:
+(A) The apples are the second-cheapest
+(B) The mangoes are the second-cheapest
+(C) The oranges are the second-cheapest
+(D) The plums are the second-cheapest
+(E) The pears are the second-cheapest",single_answer,BBH target: (A),RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L4-BBH-0054,reasoning,BBH/logical_deduction_five_objects,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,f4d319fd44,L4,logical_deduction_five_objects,"The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. A fruit stand sells five fruits: apples, oranges, watermelons, pears, and mangoes. The apples are more expensive than the oranges. The oranges are more expensive than the mangoes. The apples are the third-most expensive. The pears are more expensive than the watermelons.
+Options:
+(A) The apples are the second-cheapest
+(B) The oranges are the second-cheapest
+(C) The watermelons are the second-cheapest
+(D) The pears are the second-cheapest
+(E) The mangoes are the second-cheapest",single_answer,BBH target: (B),RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L4-BBH-0055,reasoning,BBH/logical_deduction_five_objects,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,224e0a0c34,L4,logical_deduction_five_objects,"The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a branch, there are five birds: an owl, a cardinal, a robin, a hummingbird, and a crow. The hummingbird is to the left of the owl. The hummingbird is to the right of the cardinal. The crow is to the left of the robin. The owl is to the left of the crow.
+Options:
+(A) The owl is the second from the right
+(B) The cardinal is the second from the right
+(C) The robin is the second from the right
+(D) The hummingbird is the second from the right
+(E) The crow is the second from the right",single_answer,BBH target: (E),RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L4-BBH-0059,reasoning,BBH/logical_deduction_five_objects,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,44b8246eac,L4,logical_deduction_five_objects,"The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a branch, there are five birds: an owl, a hummingbird, a crow, a hawk, and a robin. The hawk is to the right of the owl. The hummingbird is to the right of the hawk. The crow is the second from the right. The robin is the second from the left.
+Options:
+(A) The owl is the leftmost
+(B) The hummingbird is the leftmost
+(C) The crow is the leftmost
+(D) The hawk is the leftmost
+(E) The robin is the leftmost",single_answer,BBH target: (A),RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L4-BBH-0044,reasoning,BBH/logical_deduction_five_objects,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,721ed476df,L4,logical_deduction_five_objects,"The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a shelf, there are five books: a green book, a blue book, a brown book, a gray book, and a red book. The green book is to the left of the brown book. The gray book is to the left of the blue book. The green book is to the right of the blue book. The red book is the leftmost.
+Options:
+(A) The green book is the second from the left
+(B) The blue book is the second from the left
+(C) The brown book is the second from the left
+(D) The gray book is the second from the left
+(E) The red book is the second from the left",single_answer,BBH target: (D),RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+R-L4-BBH-0060,reasoning,BBH/logical_deduction_five_objects,https://github.com/suzgunmirac/BIG-Bench-Hard,bbh_json,de34569388,L4,logical_deduction_five_objects,"The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph. A fruit stand sells five fruits: loquats, peaches, pears, plums, and watermelons. The watermelons are the most expensive. The peaches are more expensive than the loquats. The plums are the second-cheapest. The pears are the third-most expensive.
+Options:
+(A) The loquats are the cheapest
+(B) The peaches are the cheapest
+(C) The pears are the cheapest
+(D) The plums are the cheapest
+(E) The watermelons are the cheapest",single_answer,BBH target: (A),RUB-R-BBH-v1,answerable,Public GitHub benchmark; verify repository license before redistribution.
+P-L1-NPLAN-0005,planning,NaturalPlan/calendar_scheduling,https://github.com/google-deepmind/natural-plan,data_json,calendar_scheduling_example_599,L1,calendar_scheduling,"You are an expert at scheduling meetings. You are given a few constraints on the existing schedule of each participant, the meeting duration, and possibly some preferences on the meeting time. Note there exists a solution that works with existing schedule of every participant. Here are a few example tasks and solutions:
+
+TASK: You need to schedule a meeting for Judith and Mason for one hour between the work hours of 9:00 to 17:00 on Monday. 
+
+Here are the existing schedules for everyone during the day: 
+Judith is busy on Monday during 12:00 to 14:30, 15:30 to 16:00; 
+Mason has blocked their calendar on Monday during 9:30 to 11:00, 12:30 to 13:30, 14:00 to 14:30, 15:00 to 15:30, 16:30 to 17:00; 
+
+Find a time that works for everyone's schedule and constraints. 
+SOLUTION:",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L1-NPLAN-0018,planning,NaturalPlan/calendar_scheduling,https://github.com/google-deepmind/natural-plan,data_json,calendar_scheduling_example_39,L1,calendar_scheduling,"You are an expert at scheduling meetings. You are given a few constraints on the existing schedule of each participant, the meeting duration, and possibly some preferences on the meeting time. Note there exists a solution that works with existing schedule of every participant. Here are a few example tasks and solutions:
+
+TASK: You need to schedule a meeting for Emily, Victoria and Nancy for half an hour between the work hours of 9:00 to 17:00 on Monday. 
+
+Here are the existing schedules for everyone during the day: 
+Emily is free the entire day.
+Victoria has blocked their calendar on Monday during 13:30 to 14:00, 14:30 to 15:30, 16:30 to 17:00; 
+Nancy is busy on Monday during 9:00 to 14:00, 14:30 to 15:30; 
+
+You would like to schedule the meeting at their earlist availability.
+Find a time that works for everyone's schedule and constraints. 
+SOLUTION:",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L1-NPLAN-0011,planning,NaturalPlan/calendar_scheduling,https://github.com/google-deepmind/natural-plan,data_json,calendar_scheduling_example_554,L1,calendar_scheduling,"You are an expert at scheduling meetings. You are given a few constraints on the existing schedule of each participant, the meeting duration, and possibly some preferences on the meeting time. Note there exists a solution that works with existing schedule of every participant. Here are a few example tasks and solutions:
+
+TASK: You need to schedule a meeting for Theresa and Frances for one hour between the work hours of 9:00 to 17:00 on Monday. 
+
+Here are the existing schedules for everyone during the day: 
+Theresa has meetings on Monday during 10:30 to 11:00, 11:30 to 12:00, 12:30 to 13:30, 15:00 to 15:30, 16:30 to 17:00; 
+Frances is busy on Monday during 9:00 to 9:30, 10:30 to 15:00, 15:30 to 16:30; 
+
+Find a time that works for everyone's schedule and constraints. 
+SOLUTION:",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L1-NPLAN-0019,planning,NaturalPlan/calendar_scheduling,https://github.com/google-deepmind/natural-plan,data_json,calendar_scheduling_example_587,L1,calendar_scheduling,"You are an expert at scheduling meetings. You are given a few constraints on the existing schedule of each participant, the meeting duration, and possibly some preferences on the meeting time. Note there exists a solution that works with existing schedule of every participant. Here are a few example tasks and solutions:
+
+TASK: You need to schedule a meeting for Zachary and Nicole for half an hour between the work hours of 9:00 to 17:00 on Monday. 
+
+Here are the existing schedules for everyone during the day: 
+Zachary has blocked their calendar on Monday during 9:30 to 10:00, 11:00 to 11:30, 13:30 to 14:30, 15:00 to 15:30, 16:00 to 16:30; 
+Nicole has meetings on Monday during 9:30 to 15:00, 15:30 to 17:00; 
+
+Find a time that works for everyone's schedule and constraints. 
+SOLUTION:",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L1-NPLAN-0009,planning,NaturalPlan/calendar_scheduling,https://github.com/google-deepmind/natural-plan,data_json,calendar_scheduling_example_48,L1,calendar_scheduling,"You are an expert at scheduling meetings. You are given a few constraints on the existing schedule of each participant, the meeting duration, and possibly some preferences on the meeting time. Note there exists a solution that works with existing schedule of every participant. Here are a few example tasks and solutions:
+
+TASK: You need to schedule a meeting for Janet, Rachel and Cynthia for one hour between the work hours of 9:00 to 17:00 on Monday. 
+
+Here are the existing schedules for everyone during the day: 
+Janet is busy on Monday during 9:30 to 10:30, 12:30 to 13:00, 14:00 to 14:30; 
+Rachelhas no meetings the whole day.
+Cynthia has blocked their calendar on Monday during 9:30 to 10:00, 11:00 to 11:30, 12:30 to 14:30, 16:00 to 17:00; 
+
+Cynthia would rather not meet on Monday before 13:30. Find a time that works for everyone's schedule and constraints. 
+SOLUTION:",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L1-NPLAN-0004,planning,NaturalPlan/calendar_scheduling,https://github.com/google-deepmind/natural-plan,data_json,calendar_scheduling_example_543,L1,calendar_scheduling,"You are an expert at scheduling meetings. You are given a few constraints on the existing schedule of each participant, the meeting duration, and possibly some preferences on the meeting time. Note there exists a solution that works with existing schedule of every participant. Here are a few example tasks and solutions:
+
+TASK: You need to schedule a meeting for James and John for one hour between the work hours of 9:00 to 17:00 on Monday. 
+
+Here are the existing schedules for everyone during the day: 
+James has blocked their calendar on Monday during 11:30 to 12:00, 14:30 to 15:00; 
+John is busy on Monday during 9:30 to 11:00, 11:30 to 12:00, 12:30 to 13:30, 14:30 to 16:30; 
+
+Find a time that works for everyone's schedule and constraints. 
+SOLUTION:",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L1-NPLAN-0003,planning,NaturalPlan/calendar_scheduling,https://github.com/google-deepmind/natural-plan,data_json,calendar_scheduling_example_7,L1,calendar_scheduling,"You are an expert at scheduling meetings. You are given a few constraints on the existing schedule of each participant, the meeting duration, and possibly some preferences on the meeting time. Note there exists a solution that works with existing schedule of every participant. Here are a few example tasks and solutions:
+
+TASK: You need to schedule a meeting for Heather, Nicholas and Zachary for half an hour between the work hours of 9:00 to 17:00 on Monday. 
+
+Here are the existing schedules for everyone during the day: 
+Heather has blocked their calendar on Monday during 9:00 to 9:30, 10:30 to 11:00, 13:00 to 14:00, 14:30 to 15:00, 16:00 to 16:30; 
+Nicholashas no meetings the whole day.
+Zachary has blocked their calendar on Monday during 9:00 to 10:30, 11:00 to 12:00, 12:30 to 13:00, 13:30 to 16:30; 
+
+Zachary would rather not meet on Monday after 14:00. Find a time that works for everyone's schedule and constraints. 
+SOLUTION:",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L2-NPLAN-0034,planning,NaturalPlan/meeting_planning,https://github.com/google-deepmind/natural-plan,data_json,meeting_planning_example_117,L2,meeting_planning,"You are visiting San Francisco for the day and want to meet as many friends as possible. Solve the problem by considering various different schedules and picking the best one to optimize your goals.
+
+Travel distances (in minutes):
+Pacific Heights to Russian Hill: 7.
+Pacific Heights to Presidio: 11.
+Russian Hill to Pacific Heights: 7.
+Russian Hill to Presidio: 14.
+Presidio to Pacific Heights: 11.
+Presidio to Russian Hill: 14.
+
+CONSTRAINTS: You arrive at Pacific Heights at 9:00AM. William will be at Russian Hill from 9:30PM to 10:15PM. You'd like to meet William for a minimum of 30 minutes. Matthew will be at Presidio from 7:30AM to 8:00AM. You'd like to meet Matthew for a minimum of 15 minutes.
+
+Your response should start with 'SOLUTION:'.",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L2-NPLAN-0020,planning,NaturalPlan/calendar_scheduling,https://github.com/google-deepmind/natural-plan,data_json,calendar_scheduling_example_293,L2,calendar_scheduling,"You are an expert at scheduling meetings. You are given a few constraints on the existing schedule of each participant, the meeting duration, and possibly some preferences on the meeting time. Note there exists a solution that works with existing schedule of every participant. Here are a few example tasks and solutions:
+
+TASK: You need to schedule a meeting for Scott, Nicholas, Donna, Vincent and Ann for half an hour between the work hours of 9:00 to 17:00 on Monday. 
+
+Here are the existing schedules for everyone during the day: 
+Scott is free the entire day.
+Nicholas has blocked their calendar on Monday during 11:00 to 11:30, 15:30 to 16:00; 
+Donna has meetings on Monday during 9:30 to 10:00, 12:00 to 12:30, 14:00 to 14:30, 16:00 to 16:30; 
+Vincent is busy on Monday during 9:30 to 11:00, 11:30 to 12:00, 13:30 to 14:30, 15:30 to 16:30; 
+Ann has meetings on Monday during 9:30 to 11:00, 12:00 to 13:00, 14:00 to 15:00, 16:30 to 17:00; 
+
+Vincent do not want to meet on Monday after 14:30. Find a time that works for everyone's schedule and constraints. 
+SOLUTION:",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L2-NPLAN-0002,planning,NaturalPlan/calendar_scheduling,https://github.com/google-deepmind/natural-plan,data_json,calendar_scheduling_example_606,L2,calendar_scheduling,"You are an expert at scheduling meetings. You are given a few constraints on the existing schedule of each participant, the meeting duration, and possibly some preferences on the meeting time. Note there exists a solution that works with existing schedule of every participant. Here are a few example tasks and solutions:
+
+TASK: You need to schedule a meeting for Amy and Denise for half an hour between the work hours of 9:00 to 17:00 on either Monday or Tuesday. 
+
+Here are the existing schedules for everyone during the days: 
+Amy has blocked their calendar on Monday during 10:00 to 11:00, 12:00 to 12:30, 15:30 to 17:00, Tuesday during 9:00 to 10:00, 11:30 to 12:00, 13:30 to 14:00, 15:30 to 16:00, 16:30 to 17:00; 
+Denise is busy on Monday during 9:00 to 9:30, 10:00 to 17:00, Tuesday during 9:00 to 10:30, 12:30 to 16:00, 16:30 to 17:00; 
+
+Denise do not want to meet on Tuesday. Find a time that works for everyone's schedule and constraints. 
+SOLUTION:",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L2-NPLAN-0032,planning,NaturalPlan/meeting_planning,https://github.com/google-deepmind/natural-plan,data_json,meeting_planning_example_177,L2,meeting_planning,"You are visiting San Francisco for the day and want to meet as many friends as possible. Solve the problem by considering various different schedules and picking the best one to optimize your goals.
+
+Travel distances (in minutes):
+Fisherman's Wharf to Bayview: 26.
+Fisherman's Wharf to Embarcadero: 8.
+Bayview to Fisherman's Wharf: 25.
+Bayview to Embarcadero: 19.
+Embarcadero to Fisherman's Wharf: 6.
+Embarcadero to Bayview: 21.
+
+CONSTRAINTS: You arrive at Fisherman's Wharf at 9:00AM. Michelle will be at Bayview from 7:45PM to 9:15PM. You'd like to meet Michelle for a minimum of 90 minutes. James will be at Embarcadero from 3:45PM to 5:15PM. You'd like to meet James for a minimum of 75 minutes.
+
+Your response should start with 'SOLUTION:'.",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L2-NPLAN-0027,planning,NaturalPlan/meeting_planning,https://github.com/google-deepmind/natural-plan,data_json,meeting_planning_example_84,L2,meeting_planning,"You are visiting San Francisco for the day and want to meet as many friends as possible. Solve the problem by considering various different schedules and picking the best one to optimize your goals.
+
+Travel distances (in minutes):
+Alamo Square to Haight-Ashbury: 5.
+Haight-Ashbury to Alamo Square: 5.
+
+CONSTRAINTS: You arrive at Alamo Square at 9:00AM. Thomas will be at Haight-Ashbury from 11:00AM to 1:00PM. You'd like to meet Thomas for a minimum of 30 minutes.
+
+Your response should start with 'SOLUTION:'.",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L2-NPLAN-0016,planning,NaturalPlan/calendar_scheduling,https://github.com/google-deepmind/natural-plan,data_json,calendar_scheduling_example_103,L2,calendar_scheduling,"You are an expert at scheduling meetings. You are given a few constraints on the existing schedule of each participant, the meeting duration, and possibly some preferences on the meeting time. Note there exists a solution that works with existing schedule of every participant. Here are a few example tasks and solutions:
+
+TASK: You need to schedule a meeting for Diane, Jack, Eugene and Patricia for half an hour between the work hours of 9:00 to 17:00 on Monday. 
+
+Here are the existing schedules for everyone during the day: 
+Diane has blocked their calendar on Monday during 9:30 to 10:00, 14:30 to 15:00; 
+Jack has blocked their calendar on Monday during 13:30 to 14:00, 14:30 to 15:00; 
+Eugene has blocked their calendar on Monday during 9:00 to 10:00, 10:30 to 11:30, 12:00 to 14:30, 15:00 to 16:30; 
+Patricia has blocked their calendar on Monday during 9:30 to 10:30, 11:00 to 12:00, 12:30 to 14:00, 15:00 to 16:30; 
+
+Find a time that works for everyone's schedule and constraints. 
+SOLUTION:",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L2-NPLAN-0040,planning,NaturalPlan/meeting_planning,https://github.com/google-deepmind/natural-plan,data_json,meeting_planning_example_171,L2,meeting_planning,"You are visiting San Francisco for the day and want to meet as many friends as possible. Solve the problem by considering various different schedules and picking the best one to optimize your goals.
+
+Travel distances (in minutes):
+Nob Hill to The Castro: 17.
+Nob Hill to Golden Gate Park: 17.
+The Castro to Nob Hill: 16.
+The Castro to Golden Gate Park: 11.
+Golden Gate Park to Nob Hill: 20.
+Golden Gate Park to The Castro: 13.
+
+CONSTRAINTS: You arrive at Nob Hill at 9:00AM. Jason will be at The Castro from 11:00AM to 4:30PM. You'd like to meet Jason for a minimum of 90 minutes. Charles will be at Golden Gate Park from 7:15AM to 11:00AM. You'd like to meet Charles for a minimum of 15 minutes.
+
+Your response should start with 'SOLUTION:'.",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L2-NPLAN-0015,planning,NaturalPlan/calendar_scheduling,https://github.com/google-deepmind/natural-plan,data_json,calendar_scheduling_example_672,L2,calendar_scheduling,"You are an expert at scheduling meetings. You are given a few constraints on the existing schedule of each participant, the meeting duration, and possibly some preferences on the meeting time. Note there exists a solution that works with existing schedule of every participant. Here are a few example tasks and solutions:
+
+TASK: You need to schedule a meeting for Harold and Donna for half an hour between the work hours of 9:00 to 17:00 on either Monday or Tuesday. 
+
+Here are the existing schedules for everyone during the days: 
+Harold is busy on Monday during 9:30 to 10:00, 12:00 to 12:30, 13:30 to 14:00, 14:30 to 15:30, Tuesday during 10:30 to 11:00, 11:30 to 12:00, 12:30 to 13:00, 14:30 to 15:00, 15:30 to 16:00; 
+Donna is busy on Monday during 9:00 to 11:00, 12:30 to 16:00, Tuesday during 9:00 to 10:30, 12:00 to 17:00; 
+
+Harold do not want to meet on Monday after 12:30. Donna would like to avoid more meetings on Tuesday. Find a time that works for everyone's schedule and constraints. 
+SOLUTION:",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L2-NPLAN-0008,planning,NaturalPlan/calendar_scheduling,https://github.com/google-deepmind/natural-plan,data_json,calendar_scheduling_example_213,L2,calendar_scheduling,"You are an expert at scheduling meetings. You are given a few constraints on the existing schedule of each participant, the meeting duration, and possibly some preferences on the meeting time. Note there exists a solution that works with existing schedule of every participant. Here are a few example tasks and solutions:
+
+TASK: You need to schedule a meeting for Jeremy, Diana, Beverly, Diane and Megan for one hour between the work hours of 9:00 to 17:00 on Monday. 
+
+Here are the existing schedules for everyone during the day: 
+Jeremy has blocked their calendar on Monday during 9:00 to 9:30, 11:00 to 11:30, 13:30 to 14:00, 15:00 to 15:30; 
+Diana's calendar is wide open the entire day.
+Beverly is free the entire day.
+Diane has meetings on Monday during 9:00 to 9:30, 10:00 to 10:30, 12:30 to 13:30, 14:00 to 14:30, 15:30 to 17:00; 
+Megan is busy on Monday during 9:00 to 10:00, 10:30 to 11:30, 12:30 to 13:00, 14:00 to 16:30; 
+
+Find a time that works for everyone's schedule and constraints. 
+SOLUTION:",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L3-NPLAN-0001,planning,NaturalPlan/calendar_scheduling,https://github.com/google-deepmind/natural-plan,data_json,calendar_scheduling_example_470,L3,calendar_scheduling,"You are an expert at scheduling meetings. You are given a few constraints on the existing schedule of each participant, the meeting duration, and possibly some preferences on the meeting time. Note there exists a solution that works with existing schedule of every participant. Here are a few example tasks and solutions:
+
+TASK: You need to schedule a meeting for Jordan, Madison, Kimberly, Carol, Nathan, Walter and Aaron for half an hour between the work hours of 9:00 to 17:00 on Monday. 
+
+Here are the existing schedules for everyone during the day: 
+Jordan is busy on Monday during 9:00 to 9:30, 11:00 to 11:30, 12:30 to 13:00, 13:30 to 14:00; 
+Madison has meetings on Monday during 10:00 to 11:00, 11:30 to 12:00, 14:30 to 15:30, 16:30 to 17:00; 
+Kimberly has blocked their calendar on Monday during 11:30 to 12:00, 16:30 to 17:00; 
+Carol has meetings on Monday during 9:00 to 9:30, 10:30 to 12:00, 13:30 to 14:00, 16:00 to 16:30; 
+Nathan has meetings on Monday during 10:00 to 14:00, 14:30 to 15:30, 16:00 to 17:00; 
+Walter has blocked their calendar on Monday during 9:00 to 9:30, 10:00 to 10:30, 11:00 to 11:30, 12:00 to 12:30, 13:30 to 14:00, 14:30 to 16:00; 
+Aaron has blocked their calendar on Monday during 9:00 to 9:30, 10:00 to 10:30, 11:00 to 12:00, 13:30 to 14:00, 15:30 to 17:00; 
+
+Carol would rather not meet on Monday after 10:00. Find a time that works for everyone's schedule and constraints. 
+SOLUTION:",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L3-NPLAN-0013,planning,NaturalPlan/calendar_scheduling,https://github.com/google-deepmind/natural-plan,data_json,calendar_scheduling_example_728,L3,calendar_scheduling,"You are an expert at scheduling meetings. You are given a few constraints on the existing schedule of each participant, the meeting duration, and possibly some preferences on the meeting time. Note there exists a solution that works with existing schedule of every participant. Here are a few example tasks and solutions:
+
+TASK: You need to schedule a meeting for Abigail and Albert for half an hour between the work hours of 9:00 to 17:00 on either Monday, Tuesday or Wednesday. 
+
+Here are the existing schedules for everyone during the days: 
+Abigail is busy on Monday during 9:00 to 10:00, 11:00 to 12:00, 12:30 to 13:00, 14:30 to 15:00, Tuesday during 12:30 to 13:00, Wednesday during 14:00 to 14:30; 
+Albert is busy on Monday during 9:00 to 9:30, 10:00 to 11:00, 12:00 to 14:30, 15:00 to 15:30, 16:30 to 17:00, Tuesday during 10:30 to 12:00, 12:30 to 13:00, 14:00 to 15:00, 16:30 to 17:00, Wednesday during 9:30 to 10:30, 12:00 to 13:30, 14:30 to 15:30; 
+
+Abigail would rather not meet on Monday. Albert can not meet on Tuesday. The group would like to meet at their earlist availability.
+Find a time that works for everyone's schedule and constraints. 
+SOLUTION:",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L3-NPLAN-0012,planning,NaturalPlan/calendar_scheduling,https://github.com/google-deepmind/natural-plan,data_json,calendar_scheduling_example_941,L3,calendar_scheduling,"You are an expert at scheduling meetings. You are given a few constraints on the existing schedule of each participant, the meeting duration, and possibly some preferences on the meeting time. Note there exists a solution that works with existing schedule of every participant. Here are a few example tasks and solutions:
+
+TASK: You need to schedule a meeting for Emily and Elizabeth for one hour between the work hours of 9:00 to 17:00 on either Monday, Tuesday, Wednesday, Thursday or Friday. 
+
+Here are the existing schedules for everyone during the days: 
+Emily is busy on Monday during 12:00 to 12:30, 13:30 to 14:30, Tuesday during 13:00 to 13:30, Wednesday during 9:00 to 9:30, 10:00 to 11:00, 16:30 to 17:00, Thursday during 9:00 to 9:30, 11:30 to 12:00, 15:30 to 16:00, Friday during 12:30 to 13:00, 15:00 to 15:30, 16:00 to 16:30; 
+Elizabeth has blocked their calendar on Monday during 9:00 to 10:30, 11:00 to 12:30, 13:00 to 13:30, 14:30 to 17:00, Tuesday during 9:00 to 10:30, 11:00 to 11:30, 12:00 to 13:30, 14:30 to 17:00, Wednesday during 9:00 to 10:30, 11:00 to 11:30, 12:00 to 17:00, Thursday during 9:30 to 10:30, 11:00 to 12:00, 12:30 to 14:00, 14:30 to 15:00, 15:30 to 17:00, Friday during 9:00 to 11:30, 12:00 to 14:00, 14:30 to 15:00, 15:30 to 17:00; 
+
+Find a time that works for everyone's schedule and constraints. 
+SOLUTION:",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L3-NPLAN-0022,planning,NaturalPlan/meeting_planning,https://github.com/google-deepmind/natural-plan,data_json,meeting_planning_example_248,L3,meeting_planning,"You are visiting San Francisco for the day and want to meet as many friends as possible. Solve the problem by considering various different schedules and picking the best one to optimize your goals.
+
+Travel distances (in minutes):
+Sunset District to Pacific Heights: 21.
+Sunset District to Fisherman's Wharf: 29.
+Sunset District to North Beach: 29.
+Pacific Heights to Sunset District: 21.
+Pacific Heights to Fisherman's Wharf: 13.
+Pacific Heights to North Beach: 9.
+Fisherman's Wharf to Sunset District: 27.
+Fisherman's Wharf to Pacific Heights: 12.
+Fisherman's Wharf to North Beach: 6.
+North Beach to Sunset District: 27.
+North Beach to Pacific Heights: 8.
+North Beach to Fisherman's Wharf: 5.
+
+CONSTRAINTS: You arrive at Sunset District at 9:00AM. Jeffrey will be at Pacific Heights from 12:00PM to 8:30PM. You'd like to meet Jeffrey for a minimum of 90 minutes. Margaret will be at Fisherman's Wharf from 8:45AM to 8:00PM. You'd like to meet Margaret for a minimum of 120 minutes. Laura will be at North Beach from 2:15PM to 4:15PM. You'd like to meet Laura for a minimum of 30 minutes.
+
+Your response should start with 'SOLUTION:'.",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L3-NPLAN-0006,planning,NaturalPlan/calendar_scheduling,https://github.com/google-deepmind/natural-plan,data_json,calendar_scheduling_example_771,L3,calendar_scheduling,"You are an expert at scheduling meetings. You are given a few constraints on the existing schedule of each participant, the meeting duration, and possibly some preferences on the meeting time. Note there exists a solution that works with existing schedule of every participant. Here are a few example tasks and solutions:
+
+TASK: You need to schedule a meeting for Ann and Susan for half an hour between the work hours of 9:00 to 17:00 on either Monday, Tuesday or Wednesday. 
+
+Here are the existing schedules for everyone during the days: 
+Ann has meetings on Monday during 12:00 to 13:00, 15:30 to 16:30, Tuesday during 9:00 to 9:30, 10:30 to 11:30, 13:00 to 15:00, Wednesday during 10:30 to 11:30, 13:00 to 13:30, 14:00 to 14:30, 16:00 to 16:30; 
+Susan has blocked their calendar on Monday during 10:00 to 10:30, 11:00 to 12:00, 12:30 to 13:00, 13:30 to 14:00, 15:00 to 16:00, 16:30 to 17:00, Tuesday during 9:00 to 10:30, 11:00 to 11:30, 12:00 to 12:30, 13:00 to 13:30, 14:00 to 14:30, 15:00 to 16:00, Wednesday during 9:00 to 10:00, 10:30 to 13:30, 14:00 to 15:00, 16:00 to 16:30; 
+
+Ann can not meet on Tuesday after 12:30. Wednesday. Susan do not want to meet on Monday. Find a time that works for everyone's schedule and constraints. 
+SOLUTION:",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L3-NPLAN-0039,planning,NaturalPlan/meeting_planning,https://github.com/google-deepmind/natural-plan,data_json,meeting_planning_example_363,L3,meeting_planning,"You are visiting San Francisco for the day and want to meet as many friends as possible. Solve the problem by considering various different schedules and picking the best one to optimize your goals.
+
+Travel distances (in minutes):
+Richmond District to Bayview: 26.
+Richmond District to Union Square: 21.
+Richmond District to Alamo Square: 13.
+Richmond District to Mission District: 20.
+Bayview to Richmond District: 25.
+Bayview to Union Square: 17.
+Bayview to Alamo Square: 16.
+Bayview to Mission District: 13.
+Union Square to Richmond District: 20.
+Union Square to Bayview: 15.
+Union Square to Alamo Square: 15.
+Union Square to Mission District: 14.
+Alamo Square to Richmond District: 12.
+Alamo Square to Bayview: 16.
+Alamo Square to Union Square: 14.
+Alamo Square to Mission District: 10.
+Mission District to Richmond District: 20.
+Mission District to Bayview: 15.
+Mission District to Union Square: 15.
+Mission District to Alamo Square: 11.
+
+CONSTRAINTS: You arrive at Richmond District at 9:00AM. Karen will be at Bayview from 2:45PM to 7:15PM. You'd like to meet Karen for a minimum of 90 minutes. Ronald will be at Union Square from 9:45AM to 10:15AM. You'd like to meet Ronald for a minimum of 30 minutes. Rebecca will be at Alamo Square from 4:30PM to 7:15PM. You'd like to meet Rebecca for a minimum of 120 minutes. Helen will be at Mission District from 8:30PM to 10:00PM. You'd like to meet Helen for a minimum of 45 minutes.
+
+Your response should start with 'SOLUTION:'.",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L3-NPLAN-0010,planning,NaturalPlan/calendar_scheduling,https://github.com/google-deepmind/natural-plan,data_json,calendar_scheduling_example_467,L3,calendar_scheduling,"You are an expert at scheduling meetings. You are given a few constraints on the existing schedule of each participant, the meeting duration, and possibly some preferences on the meeting time. Note there exists a solution that works with existing schedule of every participant. Here are a few example tasks and solutions:
+
+TASK: You need to schedule a meeting for Nicole, Wayne, Gerald, Christian, Harold, Larry and Jason for half an hour between the work hours of 9:00 to 17:00 on Monday. 
+
+Here are the existing schedules for everyone during the day: 
+Nicole has meetings on Monday during 9:00 to 9:30, 11:00 to 11:30, 12:30 to 13:00, 14:30 to 15:00; 
+Wayne has blocked their calendar on Monday during 10:30 to 11:00, 11:30 to 12:00, 12:30 to 13:00, 14:30 to 15:30, 16:00 to 16:30; 
+Gerald has blocked their calendar on Monday during 9:30 to 10:00, 10:30 to 11:00; 
+Christian's calendar is wide open the entire day.
+Harold has blocked their calendar on Monday during 9:00 to 10:00, 10:30 to 14:00, 14:30 to 15:30, 16:30 to 17:00; 
+Larry has blocked their calendar on Monday during 9:00 to 12:00, 12:30 to 13:00, 13:30 to 14:00, 14:30 to 15:30, 16:00 to 17:00; 
+Jason is busy on Monday during 9:30 to 10:00, 10:30 to 11:00, 12:00 to 12:30, 13:30 to 15:30, 16:30 to 17:00; 
+
+Find a time that works for everyone's schedule and constraints. 
+SOLUTION:",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L3-NPLAN-0017,planning,NaturalPlan/calendar_scheduling,https://github.com/google-deepmind/natural-plan,data_json,calendar_scheduling_example_869,L3,calendar_scheduling,"You are an expert at scheduling meetings. You are given a few constraints on the existing schedule of each participant, the meeting duration, and possibly some preferences on the meeting time. Note there exists a solution that works with existing schedule of every participant. Here are a few example tasks and solutions:
+
+TASK: You need to schedule a meeting for Philip and Roy for half an hour between the work hours of 9:00 to 17:00 on either Monday, Tuesday, Wednesday or Thursday. 
+
+Here are the existing schedules for everyone during the days: 
+Philip is busy on Monday during 10:00 to 10:30, 11:00 to 11:30, 13:30 to 14:30, 15:00 to 17:00, Tuesday during 10:30 to 11:00, 12:30 to 13:30, 14:00 to 15:30, 16:00 to 16:30, Wednesday during 9:00 to 9:30, 10:00 to 11:00, 11:30 to 12:00, 13:30 to 15:00, Thursday during 9:00 to 9:30, 11:30 to 12:00, 14:00 to 15:00, 15:30 to 16:00, 16:30 to 17:00; 
+Roy is busy on Monday during 9:00 to 10:30, 11:00 to 14:30, 15:00 to 16:30, Tuesday during 9:00 to 17:00, Wednesday during 10:00 to 10:30, 11:00 to 12:00, 12:30 to 14:00, 14:30 to 16:00, 16:30 to 17:00, Thursday during 9:00 to 12:30, 13:00 to 17:00; 
+
+Philip do not want to meet on Monday. Roy would like to avoid more meetings on Wednesday after 11:00. Thursday. Find a time that works for everyone's schedule and constraints. 
+SOLUTION:",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L3-NPLAN-0029,planning,NaturalPlan/meeting_planning,https://github.com/google-deepmind/natural-plan,data_json,meeting_planning_example_296,L3,meeting_planning,"You are visiting San Francisco for the day and want to meet as many friends as possible. Solve the problem by considering various different schedules and picking the best one to optimize your goals.
+
+Travel distances (in minutes):
+Presidio to Pacific Heights: 11.
+Presidio to Chinatown: 21.
+Presidio to Bayview: 31.
+Pacific Heights to Presidio: 11.
+Pacific Heights to Chinatown: 11.
+Pacific Heights to Bayview: 22.
+Chinatown to Presidio: 19.
+Chinatown to Pacific Heights: 10.
+Chinatown to Bayview: 22.
+Bayview to Presidio: 31.
+Bayview to Pacific Heights: 23.
+Bayview to Chinatown: 18.
+
+CONSTRAINTS: You arrive at Presidio at 9:00AM. Thomas will be at Pacific Heights from 2:30PM to 4:30PM. You'd like to meet Thomas for a minimum of 45 minutes. Emily will be at Chinatown from 5:15PM to 10:00PM. You'd like to meet Emily for a minimum of 90 minutes. Carol will be at Bayview from 8:45AM to 2:15PM. You'd like to meet Carol for a minimum of 15 minutes.
+
+Your response should start with 'SOLUTION:'.",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L3-NPLAN-0014,planning,NaturalPlan/calendar_scheduling,https://github.com/google-deepmind/natural-plan,data_json,calendar_scheduling_example_926,L3,calendar_scheduling,"You are an expert at scheduling meetings. You are given a few constraints on the existing schedule of each participant, the meeting duration, and possibly some preferences on the meeting time. Note there exists a solution that works with existing schedule of every participant. Here are a few example tasks and solutions:
+
+TASK: You need to schedule a meeting for Thomas and Jennifer for half an hour between the work hours of 9:00 to 17:00 on either Monday, Tuesday, Wednesday, Thursday or Friday. 
+
+Here are the existing schedules for everyone during the days: 
+Thomas has blocked their calendar on Monday during 13:00 to 14:00, 16:30 to 17:00, Tuesday during 14:00 to 14:30, 16:30 to 17:00, Wednesday during 10:00 to 10:30, 11:00 to 11:30, 14:00 to 14:30, 16:00 to 16:30, Thursday during 10:00 to 10:30, 12:00 to 12:30, 13:00 to 13:30, 14:30 to 15:00, 15:30 to 16:00, Friday during 10:30 to 11:00, 12:30 to 13:30, 16:00 to 16:30; 
+Jennifer is busy on Monday during 9:00 to 17:00, Tuesday during 9:00 to 17:00, Wednesday during 9:00 to 15:00, 15:30 to 16:00, 16:30 to 17:00, Thursday during 9:00 to 12:00, 12:30 to 13:30, 15:00 to 16:30, Friday during 9:00 to 12:00, 12:30 to 17:00; 
+
+You would like to schedule the meeting at their earlist availability.
+Find a time that works for everyone's schedule and constraints. 
+SOLUTION:",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L3-NPLAN-0007,planning,NaturalPlan/calendar_scheduling,https://github.com/google-deepmind/natural-plan,data_json,calendar_scheduling_example_342,L3,calendar_scheduling,"You are an expert at scheduling meetings. You are given a few constraints on the existing schedule of each participant, the meeting duration, and possibly some preferences on the meeting time. Note there exists a solution that works with existing schedule of every participant. Here are a few example tasks and solutions:
+
+TASK: You need to schedule a meeting for Ryan, Brandon, Sandra, Jonathan, Elijah and Justin for one hour between the work hours of 9:00 to 17:00 on Monday. 
+
+Here are the existing schedules for everyone during the day: 
+Ryan has blocked their calendar on Monday during 10:00 to 10:30, 16:00 to 16:30; 
+Brandon is free the entire day.
+Sandra has blocked their calendar on Monday during 11:00 to 11:30, 15:30 to 16:00; 
+Jonathan is busy on Monday during 9:00 to 12:00, 12:30 to 13:00, 14:00 to 16:30; 
+Elijah has meetings on Monday during 9:30 to 11:00, 12:00 to 13:00, 14:00 to 16:30; 
+Justin has meetings on Monday during 9:00 to 10:30, 11:30 to 13:00, 14:30 to 16:30; 
+
+Find a time that works for everyone's schedule and constraints. 
+SOLUTION:",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L4-NPLAN-0030,planning,NaturalPlan/meeting_planning,https://github.com/google-deepmind/natural-plan,data_json,meeting_planning_example_904,L4,meeting_planning,"You are visiting San Francisco for the day and want to meet as many friends as possible. Solve the problem by considering various different schedules and picking the best one to optimize your goals.
+
+Travel distances (in minutes):
+Pacific Heights to Russian Hill: 7.
+Pacific Heights to Financial District: 13.
+Pacific Heights to The Castro: 16.
+Pacific Heights to Alamo Square: 10.
+Pacific Heights to Presidio: 11.
+Pacific Heights to Mission District: 15.
+Pacific Heights to Golden Gate Park: 15.
+Pacific Heights to Marina District: 6.
+Pacific Heights to Bayview: 22.
+Pacific Heights to Embarcadero: 10.
+Russian Hill to Pacific Heights: 7.
+Russian Hill to Financial District: 11.
+Russian Hill to The Castro: 21.
+Russian Hill to Alamo Square: 15.
+Russian Hill to Presidio: 14.
+Russian Hill to Mission District: 16.
+Russian Hill to Golden Gate Park: 21.
+Russian Hill to Marina District: 7.
+Russian Hill to Bayview: 23.
+Russian Hill to Embarcadero: 8.
+Financial District to Pacific Heights: 13.
+Financial District to Russian Hill: 11.
+Financial District to The Castro: 20.
+Financial District to Alamo Square: 17.
+Financial District to Presidio: 22.
+Financial District to Mission District: 17.
+Financial District to Golden Gate Park: 23.
+Financial District to Marina District: 15.
+Financial District to Bayview: 19.
+Financial District to Embarcadero: 4.
+The Castro to Pacific Heights: 16.
+The Castro to Russian Hill: 18.
+The Castro to Financial District: 21.
+The Castro to Alamo Square: 8.
+The Castro to Presidio: 20.
+The Castro to Mission District: 7.
+The Castro to Golden Gate Park: 11.
+The Castro to Marina District: 21.
+The Castro to Bayview: 19.
+The Castro to Embarcadero: 22.
+Alamo Square to Pacific Heights: 10.
+Alamo Square to Russian Hill: 13.
+Alamo Square to Financial District: 17.
+Alamo Square to The Castro: 8.
+Alamo Square to Presidio: 17.
+Alamo Square to Mission District: 10.
+Alamo Square to Golden Gate Park: 9.
+Alamo Square to Marina District: 15.
+Alamo Square to Bayview: 16.
+Alamo Square to Embarcadero: 16.
+Presidio to Pacific Heights: 11.
+Presidio to Russian Hill: 14.
+Presidio to Financial District: 23.
+Presidio to The Castro: 21.
+Presidio to Alamo Square: 19.
+Presidio to Mission District: 26.
+Presidio to Golden Gate Park: 12.
+Presidio to Marina District: 11.
+Presidio to Bayview: 31.
+Presidio to Embarcadero: 20.
+Mission District to Pacific Heights: 16.
+Mission District to Russian Hill: 15.
+Mission District to Financial District: 15.
+Mission District to The Castro: 7.
+Mission District to Alamo Square: 11.
+Mission District to Presidio: 25.
+Mission District to Golden Gate Park: 17.
+Mission District to Marina District: 19.
+Mission District to Bayview: 14.
+Mission District to Embarcadero: 19.
+Golden Gate Park to Pacific Heights: 16.
+Golden Gate Park to Russian Hill: 19.
+Golden Gate Park to Financial District: 26.
+Golden Gate Park to The Castro: 13.
+Golden Gate Park to Alamo Square: 9.
+Golden Gate Park to Presidio: 11.
+Golden Gate Park to Mission District: 17.
+Golden Gate Park to Marina District: 16.
+Golden Gate Park to Bayview: 23.
+Golden Gate Park to Embarcadero: 25.
+Marina District to Pacific Heights: 7.
+Marina District to Russian Hill: 8.
+Marina District to Financial District: 17.
+Marina District to The Castro: 22.
+Marina District to Alamo Square: 15.
+Marina District to Presidio: 10.
+Marina District to Mission District: 20.
+Marina District to Golden Gate Park: 18.
+Marina District to Bayview: 27.
+Marina District to Embarcadero: 14.
+Bayview to Pacific Heights: 23.
+Bayview to Russian Hill: 23.
+Bayview to Financial District: 19.
+Bayview to The Castro: 19.
+Bayview to Alamo Square: 16.
+Bayview to Presidio: 32.
+Bayview to Mission District: 13.
+Bayview to Golden Gate Park: 22.
+Bayview to Marina District: 27.
+Bayview to Embarcadero: 19.
+Embarcadero to Pacific Heights: 11.
+Embarcadero to Russian Hill: 8.
+Embarcadero to Financial District: 5.
+Embarcadero to The Castro: 25.
+Embarcadero to Alamo Square: 19.
+Embarcadero to Presidio: 20.
+Embarcadero to Mission District: 20.
+Embarcadero to Golden Gate Park: 25.
+Embarcadero to Marina District: 12.
+Embarcadero to Bayview: 21.
+
+CONSTRAINTS: You arrive at Pacific Heights at 9:00AM. Charles will be at Russian Hill from 11:30AM to 5:30PM. You'd like to meet Charles for a minimum of 45 minutes. Amanda will be at Financial District from 1:00PM to 4:00PM. You'd like to meet Amanda for a minimum of 45 minutes. John will be at The Castro from 11:30AM to 3:15PM. You'd like to meet John for a minimum of 45 minutes. Deborah will be at Alamo Square from 5:00PM to 6:45PM. You'd like to meet Deborah for a minimum of 90 minutes. Jessica will be at Presidio from 5:15PM to 8:15PM. You'd like to meet Jessica for a minimum of 105 minutes. Melissa will be at Mission District from 12:15PM to 6:30PM. You'd like to meet Melissa for a minimum of 90 minutes. Stephanie will be at Golden Gate Park from 4:00PM to 8:15PM. You'd like to meet Stephanie for a minimum of 15 minutes. Steven will be at Marina District from 7:30PM to 8:15PM. You'd like to meet Steven for a minimum of 30 minutes. George will be at Bayview from 9:45AM to 9:00PM. You'd like to meet George for a minimum of 45 minutes. Mary will be at Embarcadero from 7:00PM to 8:00PM. You'd like to meet Mary for a minimum of 30 minutes.
+
+Your response should start with 'SOLUTION:'.",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L4-NPLAN-0031,planning,NaturalPlan/meeting_planning,https://github.com/google-deepmind/natural-plan,data_json,meeting_planning_example_516,L4,meeting_planning,"You are visiting San Francisco for the day and want to meet as many friends as possible. Solve the problem by considering various different schedules and picking the best one to optimize your goals.
+
+Travel distances (in minutes):
+Presidio to Fisherman's Wharf: 19.
+Presidio to Golden Gate Park: 12.
+Presidio to Chinatown: 21.
+Presidio to Marina District: 10.
+Presidio to Financial District: 23.
+Presidio to Russian Hill: 14.
+Fisherman's Wharf to Presidio: 17.
+Fisherman's Wharf to Golden Gate Park: 25.
+Fisherman's Wharf to Chinatown: 12.
+Fisherman's Wharf to Marina District: 9.
+Fisherman's Wharf to Financial District: 11.
+Fisherman's Wharf to Russian Hill: 7.
+Golden Gate Park to Presidio: 11.
+Golden Gate Park to Fisherman's Wharf: 24.
+Golden Gate Park to Chinatown: 23.
+Golden Gate Park to Marina District: 16.
+Golden Gate Park to Financial District: 26.
+Golden Gate Park to Russian Hill: 19.
+Chinatown to Presidio: 19.
+Chinatown to Fisherman's Wharf: 8.
+Chinatown to Golden Gate Park: 23.
+Chinatown to Marina District: 12.
+Chinatown to Financial District: 5.
+Chinatown to Russian Hill: 7.
+Marina District to Presidio: 10.
+Marina District to Fisherman's Wharf: 10.
+Marina District to Golden Gate Park: 18.
+Marina District to Chinatown: 16.
+Marina District to Financial District: 17.
+Marina District to Russian Hill: 8.
+Financial District to Presidio: 22.
+Financial District to Fisherman's Wharf: 10.
+Financial District to Golden Gate Park: 23.
+Financial District to Chinatown: 5.
+Financial District to Marina District: 15.
+Financial District to Russian Hill: 10.
+Russian Hill to Presidio: 14.
+Russian Hill to Fisherman's Wharf: 7.
+Russian Hill to Golden Gate Park: 21.
+Russian Hill to Chinatown: 9.
+Russian Hill to Marina District: 7.
+Russian Hill to Financial District: 11.
+
+CONSTRAINTS: You arrive at Presidio at 9:00AM. Nancy will be at Fisherman's Wharf from 6:30PM to 8:30PM. You'd like to meet Nancy for a minimum of 30 minutes. Sandra will be at Golden Gate Park from 1:00PM to 5:45PM. You'd like to meet Sandra for a minimum of 75 minutes. Jessica will be at Chinatown from 2:15PM to 8:45PM. You'd like to meet Jessica for a minimum of 60 minutes. Matthew will be at Marina District from 5:00PM to 7:00PM. You'd like to meet Matthew for a minimum of 15 minutes. Charles will be at Financial District from 1:15PM to 3:00PM. You'd like to meet Charles for a minimum of 90 minutes. William will be at Russian Hill from 1:00PM to 4:30PM. You'd like to meet William for a minimum of 75 minutes.
+
+Your response should start with 'SOLUTION:'.",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L4-NPLAN-0057,planning,NaturalPlan/trip_planning,https://github.com/google-deepmind/natural-plan,data_json,trip_planning_example_522,L4,trip_planning,"You plan to visit 5 European cities for 24 days in total. You only take direct flights to commute between cities. You want to spend 6 days in Valencia. You have to attend a workshop in Valencia between day 5 and day 10. You plan to stay in Istanbul for 5 days. You want to spend 5 days in Lyon. You want to spend 6 days in Dubrovnik. You want to spend 6 days in Stockholm.
+
+Here are the cities that have direct flights:
+Stockholm and Dubrovnik, Istanbul and Stockholm, Lyon and Valencia, Valencia and Istanbul, Lyon and Istanbul, from Dubrovnik to Istanbul.
+
+Find a trip plan of visiting the cities for 24 days by taking direct flights to commute between them.",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L4-SRC-TRAVEL-0001,planning,TravelPlanner,https://github.com/OSU-NLP-Group/TravelPlanner,source_registry_only,N/A,L4,source_setup,PLACEHOLDER: TravelPlanner source requires setup before task-level sampling.,N/A,N/A,N/A,N/A,requires_database_download
+P-L4-NPLAN-0023,planning,NaturalPlan/meeting_planning,https://github.com/google-deepmind/natural-plan,data_json,meeting_planning_example_802,L4,meeting_planning,"You are visiting San Francisco for the day and want to meet as many friends as possible. Solve the problem by considering various different schedules and picking the best one to optimize your goals.
+
+Travel distances (in minutes):
+North Beach to Union Square: 7.
+North Beach to Bayview: 25.
+North Beach to Sunset District: 27.
+North Beach to Fisherman's Wharf: 5.
+North Beach to Pacific Heights: 8.
+North Beach to The Castro: 23.
+North Beach to Presidio: 17.
+North Beach to Nob Hill: 7.
+North Beach to Embarcadero: 6.
+Union Square to North Beach: 10.
+Union Square to Bayview: 15.
+Union Square to Sunset District: 27.
+Union Square to Fisherman's Wharf: 15.
+Union Square to Pacific Heights: 15.
+Union Square to The Castro: 17.
+Union Square to Presidio: 24.
+Union Square to Nob Hill: 9.
+Union Square to Embarcadero: 11.
+Bayview to North Beach: 22.
+Bayview to Union Square: 18.
+Bayview to Sunset District: 23.
+Bayview to Fisherman's Wharf: 25.
+Bayview to Pacific Heights: 23.
+Bayview to The Castro: 19.
+Bayview to Presidio: 32.
+Bayview to Nob Hill: 20.
+Bayview to Embarcadero: 19.
+Sunset District to North Beach: 28.
+Sunset District to Union Square: 30.
+Sunset District to Bayview: 22.
+Sunset District to Fisherman's Wharf: 29.
+Sunset District to Pacific Heights: 21.
+Sunset District to The Castro: 17.
+Sunset District to Presidio: 16.
+Sunset District to Nob Hill: 27.
+Sunset District to Embarcadero: 30.
+Fisherman's Wharf to North Beach: 6.
+Fisherman's Wharf to Union Square: 13.
+Fisherman's Wharf to Bayview: 26.
+Fisherman's Wharf to Sunset District: 27.
+Fisherman's Wharf to Pacific Heights: 12.
+Fisherman's Wharf to The Castro: 27.
+Fisherman's Wharf to Presidio: 17.
+Fisherman's Wharf to Nob Hill: 11.
+Fisherman's Wharf to Embarcadero: 8.
+Pacific Heights to North Beach: 9.
+Pacific Heights to Union Square: 12.
+Pacific Heights to Bayview: 22.
+Pacific Heights to Sunset District: 21.
+Pacific Heights to Fisherman's Wharf: 13.
+Pacific Heights to The Castro: 16.
+Pacific Heights to Presidio: 11.
+Pacific Heights to Nob Hill: 8.
+Pacific Heights to Embarcadero: 10.
+The Castro to North Beach: 20.
+The Castro to Union Square: 19.
+The Castro to Bayview: 19.
+The Castro to Sunset District: 17.
+The Castro to Fisherman's Wharf: 24.
+The Castro to Pacific Heights: 16.
+The Castro to Presidio: 20.
+The Castro to Nob Hill: 16.
+The Castro to Embarcadero: 22.
+Presidio to North Beach: 18.
+Presidio to Union Square: 22.
+Presidio to Bayview: 31.
+Presidio to Sunset District: 15.
+Presidio to Fisherman's Wharf: 19.
+Presidio to Pacific Heights: 11.
+Presidio to The Castro: 21.
+Presidio to Nob Hill: 18.
+Presidio to Embarcadero: 20.
+Nob Hill to North Beach: 8.
+Nob Hill to Union Square: 7.
+Nob Hill to Bayview: 19.
+Nob Hill to Sunset District: 24.
+Nob Hill to Fisherman's Wharf: 10.
+Nob Hill to Pacific Heights: 8.
+Nob Hill to The Castro: 17.
+Nob Hill to Presidio: 17.
+Nob Hill to Embarcadero: 9.
+Embarcadero to North Beach: 5.
+Embarcadero to Union Square: 10.
+Embarcadero to Bayview: 21.
+Embarcadero to Sunset District: 30.
+Embarcadero to Fisherman's Wharf: 6.
+Embarcadero to Pacific Heights: 11.
+Embarcadero to The Castro: 25.
+Embarcadero to Presidio: 20.
+Embarcadero to Nob Hill: 10.
+
+CONSTRAINTS: You arrive at North Beach at 9:00AM. George will be at Union Square from 2:15PM to 10:00PM. You'd like to meet George for a minimum of 90 minutes. Timothy will be at Bayview from 11:45AM to 9:30PM. You'd like to meet Timothy for a minimum of 90 minutes. Jeffrey will be at Sunset District from 6:45PM to 9:30PM. You'd like to meet Jeffrey for a minimum of 120 minutes. Stephanie will be at Fisherman's Wharf from 1:15PM to 3:45PM. You'd like to meet Stephanie for a minimum of 75 minutes. Richard will be at Pacific Heights from 4:30PM to 8:30PM. You'd like to meet Richard for a minimum of 120 minutes. Jason will be at The Castro from 6:00PM to 10:00PM. You'd like to meet Jason for a minimum of 105 minutes. James will be at Presidio from 8:30AM to 11:45AM. You'd like to meet James for a minimum of 30 minutes. Ronald will be at Nob Hill from 7:45PM to 8:30PM. You'd like to meet Ronald for a minimum of 45 minutes. Thomas will be at Embarcadero from 9:00PM to 9:30PM. You'd like to meet Thomas for a minimum of 30 minutes.
+
+Your response should start with 'SOLUTION:'.",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L4-NPLAN-0033,planning,NaturalPlan/meeting_planning,https://github.com/google-deepmind/natural-plan,data_json,meeting_planning_example_436,L4,meeting_planning,"You are visiting San Francisco for the day and want to meet as many friends as possible. Solve the problem by considering various different schedules and picking the best one to optimize your goals.
+
+Travel distances (in minutes):
+Mission District to Chinatown: 16.
+Mission District to Sunset District: 24.
+Mission District to Union Square: 15.
+Mission District to Golden Gate Park: 17.
+Mission District to Fisherman's Wharf: 22.
+Chinatown to Mission District: 18.
+Chinatown to Sunset District: 29.
+Chinatown to Union Square: 7.
+Chinatown to Golden Gate Park: 23.
+Chinatown to Fisherman's Wharf: 8.
+Sunset District to Mission District: 24.
+Sunset District to Chinatown: 30.
+Sunset District to Union Square: 30.
+Sunset District to Golden Gate Park: 11.
+Sunset District to Fisherman's Wharf: 29.
+Union Square to Mission District: 14.
+Union Square to Chinatown: 7.
+Union Square to Sunset District: 26.
+Union Square to Golden Gate Park: 22.
+Union Square to Fisherman's Wharf: 15.
+Golden Gate Park to Mission District: 17.
+Golden Gate Park to Chinatown: 23.
+Golden Gate Park to Sunset District: 10.
+Golden Gate Park to Union Square: 22.
+Golden Gate Park to Fisherman's Wharf: 24.
+Fisherman's Wharf to Mission District: 22.
+Fisherman's Wharf to Chinatown: 12.
+Fisherman's Wharf to Sunset District: 27.
+Fisherman's Wharf to Union Square: 13.
+Fisherman's Wharf to Golden Gate Park: 25.
+
+CONSTRAINTS: You arrive at Mission District at 9:00AM. Mark will be at Chinatown from 2:00PM to 6:15PM. You'd like to meet Mark for a minimum of 30 minutes. Kenneth will be at Sunset District from 7:45AM to 9:00AM. You'd like to meet Kenneth for a minimum of 15 minutes. Steven will be at Union Square from 1:15PM to 6:00PM. You'd like to meet Steven for a minimum of 105 minutes. Patricia will be at Golden Gate Park from 4:45PM to 7:00PM. You'd like to meet Patricia for a minimum of 30 minutes. Brian will be at Fisherman's Wharf from 6:00PM to 8:30PM. You'd like to meet Brian for a minimum of 105 minutes.
+
+Your response should start with 'SOLUTION:'.",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L4-NPLAN-0055,planning,NaturalPlan/trip_planning,https://github.com/google-deepmind/natural-plan,data_json,trip_planning_example_344,L4,trip_planning,"You plan to visit 4 European cities for 20 days in total. You only take direct flights to commute between cities. You want to spend 6 days in Valencia. You want to spend 6 days in Athens. You plan to visit relatives in Athens between day 1 and day 6. You would like to visit Naples for 5 days. You are going to attend a wedding in Naples between day 16 and day 20. You want to spend 6 days in Zurich.
+
+Here are the cities that have direct flights:
+Valencia and Naples, from Valencia to Athens, Athens and Naples, Zurich and Naples, Athens and Zurich, Zurich and Valencia.
+
+Find a trip plan of visiting the cities for 20 days by taking direct flights to commute between them.",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L4-NPLAN-0024,planning,NaturalPlan/meeting_planning,https://github.com/google-deepmind/natural-plan,data_json,meeting_planning_example_641,L4,meeting_planning,"You are visiting San Francisco for the day and want to meet as many friends as possible. Solve the problem by considering various different schedules and picking the best one to optimize your goals.
+
+Travel distances (in minutes):
+Sunset District to Financial District: 30.
+Sunset District to Marina District: 21.
+Sunset District to The Castro: 17.
+Sunset District to Mission District: 24.
+Sunset District to Union Square: 30.
+Sunset District to Embarcadero: 31.
+Sunset District to Pacific Heights: 21.
+Financial District to Sunset District: 31.
+Financial District to Marina District: 15.
+Financial District to The Castro: 23.
+Financial District to Mission District: 17.
+Financial District to Union Square: 9.
+Financial District to Embarcadero: 4.
+Financial District to Pacific Heights: 13.
+Marina District to Sunset District: 19.
+Marina District to Financial District: 17.
+Marina District to The Castro: 22.
+Marina District to Mission District: 20.
+Marina District to Union Square: 16.
+Marina District to Embarcadero: 14.
+Marina District to Pacific Heights: 7.
+The Castro to Sunset District: 17.
+The Castro to Financial District: 20.
+The Castro to Marina District: 21.
+The Castro to Mission District: 7.
+The Castro to Union Square: 19.
+The Castro to Embarcadero: 22.
+The Castro to Pacific Heights: 16.
+Mission District to Sunset District: 24.
+Mission District to Financial District: 17.
+Mission District to Marina District: 19.
+Mission District to The Castro: 7.
+Mission District to Union Square: 15.
+Mission District to Embarcadero: 19.
+Mission District to Pacific Heights: 16.
+Union Square to Sunset District: 26.
+Union Square to Financial District: 9.
+Union Square to Marina District: 18.
+Union Square to The Castro: 19.
+Union Square to Mission District: 14.
+Union Square to Embarcadero: 11.
+Union Square to Pacific Heights: 15.
+Embarcadero to Sunset District: 30.
+Embarcadero to Financial District: 5.
+Embarcadero to Marina District: 12.
+Embarcadero to The Castro: 25.
+Embarcadero to Mission District: 20.
+Embarcadero to Union Square: 10.
+Embarcadero to Pacific Heights: 11.
+Pacific Heights to Sunset District: 21.
+Pacific Heights to Financial District: 13.
+Pacific Heights to Marina District: 6.
+Pacific Heights to The Castro: 16.
+Pacific Heights to Mission District: 15.
+Pacific Heights to Union Square: 12.
+Pacific Heights to Embarcadero: 10.
+
+CONSTRAINTS: You arrive at Sunset District at 9:00AM. Jessica will be at Financial District from 10:30AM to 1:30PM. You'd like to meet Jessica for a minimum of 15 minutes. George will be at Marina District from 2:00PM to 9:15PM. You'd like to meet George for a minimum of 75 minutes. Andrew will be at The Castro from 7:30AM to 11:00AM. You'd like to meet Andrew for a minimum of 120 minutes. Ronald will be at Mission District from 1:00PM to 7:15PM. You'd like to meet Ronald for a minimum of 75 minutes. David will be at Union Square from 7:30PM to 10:00PM. You'd like to meet David for a minimum of 120 minutes. John will be at Embarcadero from 8:00AM to 2:30PM. You'd like to meet John for a minimum of 45 minutes. Charles will be at Pacific Heights from 12:15PM to 9:15PM. You'd like to meet Charles for a minimum of 105 minutes.
+
+Your response should start with 'SOLUTION:'.",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L4-NPLAN-0047,planning,NaturalPlan/trip_planning,https://github.com/google-deepmind/natural-plan,data_json,trip_planning_example_432,L4,trip_planning,"You plan to visit 5 European cities for 17 days in total. You only take direct flights to commute between cities. You plan to stay in Zurich for 7 days. You would like to visit Stuttgart for 4 days. You want to spend 6 days in Geneva. You would like to visit Stockholm for 2 days. You want to meet a friend in Stockholm between day 16 and day 17. You plan to stay in Venice for 2 days. You are going to attend a wedding in Venice between day 12 and day 13.
+
+Here are the cities that have direct flights:
+Venice and Stuttgart, Zurich and Venice, Geneva and Zurich, Geneva and Stockholm, Stuttgart and Stockholm, Zurich and Stockholm.
+
+Find a trip plan of visiting the cities for 17 days by taking direct flights to commute between them.",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L4-NPLAN-0053,planning,NaturalPlan/trip_planning,https://github.com/google-deepmind/natural-plan,data_json,trip_planning_example_244,L4,trip_planning,"You plan to visit 4 European cities for 21 days in total. You only take direct flights to commute between cities. You want to spend 6 days in Porto. You have to attend a workshop in Porto between day 1 and day 6. You want to spend 7 days in Zurich. You would like to visit Krakow for 7 days. You would like to visit Split for 4 days. You plan to visit relatives in Split between day 18 and day 21.
+
+Here are the cities that have direct flights:
+Krakow and Split, Zurich and Split, Porto and Zurich, Zurich and Krakow.
+
+Find a trip plan of visiting the cities for 21 days by taking direct flights to commute between them.",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L4-NPLAN-0036,planning,NaturalPlan/meeting_planning,https://github.com/google-deepmind/natural-plan,data_json,meeting_planning_example_402,L4,meeting_planning,"You are visiting San Francisco for the day and want to meet as many friends as possible. Solve the problem by considering various different schedules and picking the best one to optimize your goals.
+
+Travel distances (in minutes):
+Golden Gate Park to Haight-Ashbury: 7.
+Golden Gate Park to Sunset District: 10.
+Golden Gate Park to Marina District: 16.
+Golden Gate Park to Financial District: 26.
+Golden Gate Park to Union Square: 22.
+Haight-Ashbury to Golden Gate Park: 7.
+Haight-Ashbury to Sunset District: 15.
+Haight-Ashbury to Marina District: 17.
+Haight-Ashbury to Financial District: 21.
+Haight-Ashbury to Union Square: 17.
+Sunset District to Golden Gate Park: 11.
+Sunset District to Haight-Ashbury: 15.
+Sunset District to Marina District: 21.
+Sunset District to Financial District: 30.
+Sunset District to Union Square: 30.
+Marina District to Golden Gate Park: 18.
+Marina District to Haight-Ashbury: 16.
+Marina District to Sunset District: 19.
+Marina District to Financial District: 17.
+Marina District to Union Square: 16.
+Financial District to Golden Gate Park: 23.
+Financial District to Haight-Ashbury: 19.
+Financial District to Sunset District: 31.
+Financial District to Marina District: 15.
+Financial District to Union Square: 9.
+Union Square to Golden Gate Park: 22.
+Union Square to Haight-Ashbury: 18.
+Union Square to Sunset District: 26.
+Union Square to Marina District: 18.
+Union Square to Financial District: 9.
+
+CONSTRAINTS: You arrive at Golden Gate Park at 9:00AM. Sarah will be at Haight-Ashbury from 5:00PM to 9:30PM. You'd like to meet Sarah for a minimum of 105 minutes. Patricia will be at Sunset District from 5:00PM to 7:45PM. You'd like to meet Patricia for a minimum of 45 minutes. Matthew will be at Marina District from 9:15AM to 12:00PM. You'd like to meet Matthew for a minimum of 15 minutes. Joseph will be at Financial District from 2:15PM to 6:45PM. You'd like to meet Joseph for a minimum of 30 minutes. Robert will be at Union Square from 10:15AM to 9:45PM. You'd like to meet Robert for a minimum of 15 minutes.
+
+Your response should start with 'SOLUTION:'.",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L4-NPLAN-0038,planning,NaturalPlan/meeting_planning,https://github.com/google-deepmind/natural-plan,data_json,meeting_planning_example_567,L4,meeting_planning,"You are visiting San Francisco for the day and want to meet as many friends as possible. Solve the problem by considering various different schedules and picking the best one to optimize your goals.
+
+Travel distances (in minutes):
+Presidio to Alamo Square: 18.
+Presidio to Embarcadero: 20.
+Presidio to Nob Hill: 18.
+Presidio to Union Square: 22.
+Presidio to The Castro: 21.
+Presidio to Richmond District: 7.
+Alamo Square to Presidio: 18.
+Alamo Square to Embarcadero: 17.
+Alamo Square to Nob Hill: 11.
+Alamo Square to Union Square: 14.
+Alamo Square to The Castro: 8.
+Alamo Square to Richmond District: 12.
+Embarcadero to Presidio: 20.
+Embarcadero to Alamo Square: 19.
+Embarcadero to Nob Hill: 10.
+Embarcadero to Union Square: 10.
+Embarcadero to The Castro: 25.
+Embarcadero to Richmond District: 21.
+Nob Hill to Presidio: 17.
+Nob Hill to Alamo Square: 11.
+Nob Hill to Embarcadero: 9.
+Nob Hill to Union Square: 7.
+Nob Hill to The Castro: 17.
+Nob Hill to Richmond District: 14.
+Union Square to Presidio: 24.
+Union Square to Alamo Square: 15.
+Union Square to Embarcadero: 11.
+Union Square to Nob Hill: 9.
+Union Square to The Castro: 19.
+Union Square to Richmond District: 20.
+The Castro to Presidio: 20.
+The Castro to Alamo Square: 8.
+The Castro to Embarcadero: 22.
+The Castro to Nob Hill: 16.
+The Castro to Union Square: 19.
+The Castro to Richmond District: 16.
+Richmond District to Presidio: 7.
+Richmond District to Alamo Square: 13.
+Richmond District to Embarcadero: 19.
+Richmond District to Nob Hill: 17.
+Richmond District to Union Square: 21.
+Richmond District to The Castro: 16.
+
+CONSTRAINTS: You arrive at Presidio at 9:00AM. Rebecca will be at Alamo Square from 12:15PM to 3:45PM. You'd like to meet Rebecca for a minimum of 120 minutes. Daniel will be at Embarcadero from 4:00PM to 5:30PM. You'd like to meet Daniel for a minimum of 90 minutes. Stephanie will be at Nob Hill from 10:30AM to 5:45PM. You'd like to meet Stephanie for a minimum of 45 minutes. Barbara will be at Union Square from 3:15PM to 8:00PM. You'd like to meet Barbara for a minimum of 45 minutes. Joshua will be at The Castro from 3:15PM to 7:30PM. You'd like to meet Joshua for a minimum of 105 minutes. Matthew will be at Richmond District from 4:30PM to 7:00PM. You'd like to meet Matthew for a minimum of 90 minutes.
+
+Your response should start with 'SOLUTION:'.",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L4-NPLAN-0026,planning,NaturalPlan/meeting_planning,https://github.com/google-deepmind/natural-plan,data_json,meeting_planning_example_607,L4,meeting_planning,"You are visiting San Francisco for the day and want to meet as many friends as possible. Solve the problem by considering various different schedules and picking the best one to optimize your goals.
+
+Travel distances (in minutes):
+Sunset District to Russian Hill: 24.
+Sunset District to The Castro: 17.
+Sunset District to Richmond District: 12.
+Sunset District to Marina District: 21.
+Sunset District to North Beach: 29.
+Sunset District to Union Square: 30.
+Sunset District to Golden Gate Park: 11.
+Russian Hill to Sunset District: 23.
+Russian Hill to The Castro: 21.
+Russian Hill to Richmond District: 14.
+Russian Hill to Marina District: 7.
+Russian Hill to North Beach: 5.
+Russian Hill to Union Square: 11.
+Russian Hill to Golden Gate Park: 21.
+The Castro to Sunset District: 17.
+The Castro to Russian Hill: 18.
+The Castro to Richmond District: 16.
+The Castro to Marina District: 21.
+The Castro to North Beach: 20.
+The Castro to Union Square: 19.
+The Castro to Golden Gate Park: 11.
+Richmond District to Sunset District: 11.
+Richmond District to Russian Hill: 13.
+Richmond District to The Castro: 16.
+Richmond District to Marina District: 9.
+Richmond District to North Beach: 17.
+Richmond District to Union Square: 21.
+Richmond District to Golden Gate Park: 9.
+Marina District to Sunset District: 19.
+Marina District to Russian Hill: 8.
+Marina District to The Castro: 22.
+Marina District to Richmond District: 11.
+Marina District to North Beach: 11.
+Marina District to Union Square: 16.
+Marina District to Golden Gate Park: 18.
+North Beach to Sunset District: 27.
+North Beach to Russian Hill: 4.
+North Beach to The Castro: 22.
+North Beach to Richmond District: 18.
+North Beach to Marina District: 9.
+North Beach to Union Square: 7.
+North Beach to Golden Gate Park: 22.
+Union Square to Sunset District: 26.
+Union Square to Russian Hill: 13.
+Union Square to The Castro: 19.
+Union Square to Richmond District: 20.
+Union Square to Marina District: 18.
+Union Square to North Beach: 10.
+Union Square to Golden Gate Park: 22.
+Golden Gate Park to Sunset District: 10.
+Golden Gate Park to Russian Hill: 19.
+Golden Gate Park to The Castro: 13.
+Golden Gate Park to Richmond District: 7.
+Golden Gate Park to Marina District: 16.
+Golden Gate Park to North Beach: 24.
+Golden Gate Park to Union Square: 22.
+
+CONSTRAINTS: You arrive at Sunset District at 9:00AM. Karen will be at Russian Hill from 8:45PM to 9:45PM. You'd like to meet Karen for a minimum of 60 minutes. Jessica will be at The Castro from 3:45PM to 7:30PM. You'd like to meet Jessica for a minimum of 60 minutes. Matthew will be at Richmond District from 7:30AM to 3:15PM. You'd like to meet Matthew for a minimum of 15 minutes. Michelle will be at Marina District from 10:30AM to 6:45PM. You'd like to meet Michelle for a minimum of 75 minutes. Carol will be at North Beach from 12:00PM to 5:00PM. You'd like to meet Carol for a minimum of 90 minutes. Stephanie will be at Union Square from 10:45AM to 2:15PM. You'd like to meet Stephanie for a minimum of 30 minutes. Linda will be at Golden Gate Park from 10:45AM to 10:00PM. You'd like to meet Linda for a minimum of 90 minutes.
+
+Your response should start with 'SOLUTION:'.",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L5-NPLAN-0048,planning,NaturalPlan/trip_planning,https://github.com/google-deepmind/natural-plan,data_json,trip_planning_example_905,L5,trip_planning,"You plan to visit 7 European cities for 15 days in total. You only take direct flights to commute between cities. You want to spend 2 days in Dubrovnik. You plan to stay in Riga for 4 days. You have to attend a workshop in Riga between day 1 and day 4. You would like to visit Reykjavik for 4 days. You would like to visit Geneva for 5 days. You plan to visit relatives in Geneva between day 6 and day 10. You would like to visit Zurich for 2 days. You want to spend 2 days in Brussels. You would like to visit Helsinki for 2 days. You want to meet a friend in Helsinki between day 14 and day 15.
+
+Here are the cities that have direct flights:
+Zurich and Helsinki, Reykjavik and Helsinki, Brussels and Helsinki, Riga and Helsinki, Riga and Brussels, Brussels and Reykjavik, Geneva and Helsinki, Dubrovnik and Helsinki, Zurich and Brussels, Riga and Zurich, Geneva and Brussels, Zurich and Geneva, Zurich and Reykjavik, Zurich and Dubrovnik, Dubrovnik and Geneva.
+
+Find a trip plan of visiting the cities for 15 days by taking direct flights to commute between them.",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L5-NPLAN-0054,planning,NaturalPlan/trip_planning,https://github.com/google-deepmind/natural-plan,data_json,trip_planning_example_1497,L5,trip_planning,"You plan to visit 10 European cities for 24 days in total. You only take direct flights to commute between cities. You want to spend 5 days in Berlin. You would like to meet your friends at Berlin between day 18 and day 22 to tour together. You would like to visit Vilnius for 4 days. You would like to visit Lyon for 2 days. You plan to stay in Brussels for 2 days. During day 4 and day 5, you have to attend a conference in Brussels. You want to spend 3 days in Stuttgart. You plan to stay in Bucharest for 3 days. You have to attend a workshop in Bucharest between day 5 and day 7. You would like to visit Prague for 3 days. You are going to attend a wedding in Prague between day 2 and day 4. You plan to stay in Dubrovnik for 5 days. You want to spend 2 days in Helsinki. You would like to visit Frankfurt for 4 days.
+
+Here are the cities that have direct flights:
+Berlin and Stuttgart, Prague and Brussels, Helsinki and Berlin, Prague and Helsinki, Bucharest and Frankfurt, from Brussels to Frankfurt, Frankfurt and Helsinki, Brussels and Helsinki, Dubrovnik and Helsinki, Brussels and Vilnius, Lyon and Prague, Lyon and Bucharest, Prague and Frankfurt, Prague and Bucharest, Lyon and Brussels, Lyon and Frankfurt, Brussels and Bucharest, Vilnius and Berlin, Frankfurt and Dubrovnik, Helsinki and Vilnius, Brussels and Berlin, Frankfurt and Berlin, Frankfurt and Stuttgart, Frankfurt and Vilnius.
+
+Find a trip plan of visiting the cities for 24 days by taking direct flights to commute between them.",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L5-NPLAN-0044,planning,NaturalPlan/trip_planning,https://github.com/google-deepmind/natural-plan,data_json,trip_planning_example_651,L5,trip_planning,"You plan to visit 6 European cities for 16 days in total. You only take direct flights to commute between cities. You would like to visit Florence for 5 days. You want to spend 4 days in Paris. You would like to visit Porto for 2 days. You plan to stay in Valencia for 3 days. You are going to attend a wedding in Valencia between day 14 and day 16. You plan to stay in Vienna for 3 days. You want to meet a friend in Vienna between day 11 and day 13. You would like to visit Riga for 4 days. You would like to meet your friends at Riga between day 1 and day 4 to tour together.
+
+Here are the cities that have direct flights:
+Porto and Valencia, Vienna and Porto, Paris and Valencia, Paris and Florence, Paris and Porto, Florence and Vienna, Riga and Vienna, Paris and Vienna, Riga and Paris, Vienna and Valencia.
+
+Find a trip plan of visiting the cities for 16 days by taking direct flights to commute between them.",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L5-NPLAN-0049,planning,NaturalPlan/trip_planning,https://github.com/google-deepmind/natural-plan,data_json,trip_planning_example_1136,L5,trip_planning,"You plan to visit 8 European cities for 19 days in total. You only take direct flights to commute between cities. You plan to stay in Lyon for 5 days. You plan to stay in Munich for 3 days. You plan to stay in Valencia for 2 days. You plan to stay in Dubrovnik for 4 days. You plan to stay in Porto for 3 days. During day 11 and day 13, you have to attend a conference in Porto. You plan to stay in Copenhagen for 3 days. You want to meet a friend in Copenhagen between day 8 and day 10. You want to spend 3 days in Bucharest. You plan to stay in Reykjavik for 3 days. You have to attend a workshop in Reykjavik between day 6 and day 8.
+
+Here are the cities that have direct flights:
+Valencia and Bucharest, Valencia and Porto, Porto and Lyon, Copenhagen and Bucharest, Dubrovnik and Munich, Dubrovnik and Copenhagen, Munich and Reykjavik, Copenhagen and Porto, Munich and Porto, Reykjavik and Copenhagen, Lyon and Bucharest, Munich and Lyon, Munich and Bucharest, Valencia and Lyon, Copenhagen and Valencia, Munich and Valencia, Munich and Copenhagen.
+
+Find a trip plan of visiting the cities for 19 days by taking direct flights to commute between them.",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L5-NPLAN-0042,planning,NaturalPlan/trip_planning,https://github.com/google-deepmind/natural-plan,data_json,trip_planning_example_967,L5,trip_planning,"You plan to visit 7 European cities for 14 days in total. You only take direct flights to commute between cities. You would like to visit Budapest for 2 days. During day 7 and day 8, you have to attend a conference in Budapest. You want to spend 3 days in Mykonos. You would like to visit Lyon for 4 days. You want to meet a friend in Lyon between day 1 and day 4. You would like to visit Reykjavik for 2 days. From day 6 to day 7, there is a annual show you want to attend in Reykjavik. You plan to stay in Lisbon for 3 days. You plan to stay in Athens for 4 days. You would like to visit Riga for 2 days.
+
+Here are the cities that have direct flights:
+Lisbon and Reykjavik, from Athens to Riga, Lisbon and Riga, Mykonos and Athens, Lisbon and Athens, from Reykjavik to Athens, Lyon and Lisbon, Lisbon and Budapest, Reykjavik and Budapest, Budapest and Mykonos.
+
+Find a trip plan of visiting the cities for 14 days by taking direct flights to commute between them.",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L5-NPLAN-0060,planning,NaturalPlan/trip_planning,https://github.com/google-deepmind/natural-plan,data_json,trip_planning_example_723,L5,trip_planning,"You plan to visit 6 European cities for 17 days in total. You only take direct flights to commute between cities. You want to spend 5 days in Venice. You would like to meet your friends at Venice between day 3 and day 7 to tour together. You would like to visit Amsterdam for 3 days. During day 1 and day 3, you have to attend a conference in Amsterdam. You would like to visit Athens for 5 days. You have to attend a workshop in Athens between day 7 and day 11. You plan to stay in Hamburg for 5 days. You plan to stay in Madrid for 2 days. You want to spend 2 days in Lyon.
+
+Here are the cities that have direct flights:
+Athens and Hamburg, Hamburg and Madrid, Amsterdam and Athens, Amsterdam and Lyon, Venice and Athens, Amsterdam and Venice, Madrid and Lyon, Amsterdam and Hamburg, Venice and Madrid, Venice and Hamburg, Amsterdam and Madrid, Athens and Madrid, Venice and Lyon.
+
+Find a trip plan of visiting the cities for 17 days by taking direct flights to commute between them.",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L5-NPLAN-0056,planning,NaturalPlan/trip_planning,https://github.com/google-deepmind/natural-plan,data_json,trip_planning_example_1121,L5,trip_planning,"You plan to visit 8 European cities for 15 days in total. You only take direct flights to commute between cities. You would like to visit Lyon for 3 days. You plan to stay in Istanbul for 2 days. You would like to visit Dubrovnik for 2 days. You would like to visit Tallinn for 2 days. You plan to stay in Dublin for 4 days. From day 11 to day 14, there is a annual show you want to attend in Dublin. You want to spend 4 days in Bucharest. You are going to attend a wedding in Bucharest between day 6 and day 9. You want to spend 2 days in Milan. You want to spend 3 days in Hamburg.
+
+Here are the cities that have direct flights:
+Milan and Hamburg, Istanbul and Lyon, Hamburg and Bucharest, Dublin and Tallinn, from Dubrovnik to Istanbul, Hamburg and Dublin, Istanbul and Bucharest, Bucharest and Dublin, Bucharest and Lyon, Istanbul and Hamburg, Lyon and Dublin, Dubrovnik and Dublin, Milan and Dublin, from Istanbul to Tallinn, Istanbul and Dublin, Istanbul and Milan.
+
+Find a trip plan of visiting the cities for 15 days by taking direct flights to commute between them.",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L5-NPLAN-0059,planning,NaturalPlan/trip_planning,https://github.com/google-deepmind/natural-plan,data_json,trip_planning_example_1144,L5,trip_planning,"You plan to visit 8 European cities for 20 days in total. You only take direct flights to commute between cities. You plan to stay in Dublin for 4 days. You want to spend 2 days in Porto. From day 6 to day 7, there is a annual show you want to attend in Porto. You would like to visit Prague for 4 days. You want to spend 3 days in Helsinki. You would like to visit Edinburgh for 4 days. You are going to attend a wedding in Edinburgh between day 7 and day 10. You want to spend 3 days in Valencia. You would like to meet your friends at Valencia between day 13 and day 15 to tour together. You plan to stay in Krakow for 4 days. You want to spend 3 days in Vilnius.
+
+Here are the cities that have direct flights:
+Helsinki and Vilnius, Prague and Krakow, Dublin and Porto, Helsinki and Dublin, Prague and Valencia, Porto and Edinburgh, Helsinki and Prague, Edinburgh and Prague, Dublin and Prague, Dublin and Valencia, Dublin and Edinburgh, Helsinki and Edinburgh, Valencia and Krakow, from Krakow to Vilnius, Porto and Valencia, Dublin and Krakow, Edinburgh and Krakow, Helsinki and Krakow.
+
+Find a trip plan of visiting the cities for 20 days by taking direct flights to commute between them.",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L5-NPLAN-0041,planning,NaturalPlan/trip_planning,https://github.com/google-deepmind/natural-plan,data_json,trip_planning_example_603,L5,trip_planning,"You plan to visit 6 European cities for 11 days in total. You only take direct flights to commute between cities. You want to spend 5 days in Valencia. You would like to meet your friends at Valencia between day 5 and day 9 to tour together. You would like to visit Berlin for 3 days. From day 2 to day 4, there is a annual show you want to attend in Berlin. You would like to visit Porto for 2 days. You plan to stay in Riga for 2 days. You plan to stay in Copenhagen for 2 days. You want to spend 2 days in Split. You want to meet a friend in Split between day 10 and day 11.
+
+Here are the cities that have direct flights:
+Berlin and Porto, Valencia and Copenhagen, Riga and Berlin, Riga and Copenhagen, Berlin and Copenhagen, Porto and Copenhagen, Berlin and Split, Porto and Valencia, Copenhagen and Split, Berlin and Valencia.
+
+Find a trip plan of visiting the cities for 11 days by taking direct flights to commute between them.",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
+P-L5-NPLAN-0045,planning,NaturalPlan/trip_planning,https://github.com/google-deepmind/natural-plan,data_json,trip_planning_example_1369,L5,trip_planning,"You plan to visit 9 European cities for 17 days in total. You only take direct flights to commute between cities. You would like to visit Vilnius for 3 days. You plan to stay in Oslo for 3 days. You would like to visit Dublin for 2 days. You plan to stay in Split for 3 days. You want to spend 2 days in Edinburgh. During day 2 and day 3, you have to attend a conference in Edinburgh. You would like to visit Vienna for 2 days. You plan to stay in Lyon for 5 days. You plan to visit relatives in Lyon between day 11 and day 15. You want to spend 2 days in Madrid. You would like to meet your friends at Madrid between day 10 and day 11 to tour together. You would like to visit Manchester for 3 days. From day 8 to day 10, there is a annual show you want to attend in Manchester.
+
+Here are the cities that have direct flights:
+Manchester and Madrid, Vienna and Split, Dublin and Madrid, Vienna and Manchester, Vilnius and Split, Oslo and Split, Oslo and Lyon, Oslo and Madrid, Lyon and Split, Dublin and Manchester, Edinburgh and Oslo, Madrid and Lyon, Oslo and Manchester, Vienna and Lyon, Oslo and Vienna, Vilnius and Vienna, Edinburgh and Madrid, Madrid and Split, Oslo and Vilnius, Vienna and Madrid, Dublin and Vienna, Dublin and Edinburgh, from Manchester to Split, Dublin and Oslo, Dublin and Lyon, Dublin and Split.
+
+Find a trip plan of visiting the cities for 17 days by taking direct flights to commute between them.",rubric,Natural Plan golden_plan and official evaluation script,RUB-P-NPLAN-v1,answerable,"Natural Plan repository: code Apache-2.0, materials CC-BY per README."
