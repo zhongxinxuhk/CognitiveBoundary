@@ -13,3 +13,11 @@ v1.0 (Post-publication)
 - Raw outputs
 - Full annotations
 - Complete experiment artifacts
+
+## Model Sources
+
+| Model | Source |
+|-------|--------|
+| Claude | [OpenRouter](https://openrouter.ai/) |
+| QWEN, DeepSeek, Kimi K3, and other Chinese LLMs | [HXSECAI](https://hxsecai.com/) |
+
