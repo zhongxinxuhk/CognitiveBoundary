@@ -16,8 +16,8 @@ v1.0 (Post-publication)
 
 ## Model Sources
 
-| Model | Source |
-|-------|--------|
-| Claude | [OpenRouter](https://openrouter.ai/) |
-| QWEN, DeepSeek, Kimi K3, and other Chinese LLMs | [HXSECAI](https://platform.sec.hn.cn) |
+| Model                                           | Source |
+|-------------------------------------------------|--------|
+| Claude, ChatGPT, Gemini, Grok                   | [OpenRouter](https://openrouter.ai/) |
+| QWEN, DeepSeek, Kimi K3 | [HXSECAI](https://platform.sec.hn.cn) |
 
