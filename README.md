@@ -19,5 +19,5 @@ v1.0 (Post-publication)
 | Model | Source |
 |-------|--------|
 | Claude | [OpenRouter](https://openrouter.ai/) |
-| QWEN, DeepSeek, Kimi K3, and other Chinese LLMs | [HXSECAI](https://hxsecai.com/) |
+| QWEN, DeepSeek, Kimi K3, and other Chinese LLMs | [HXSECAI](https://platform.sec.hn.cn) |
 
