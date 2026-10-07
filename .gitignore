@@ -1,0 +1,60 @@
+# Secrets and local configuration
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Private research inputs and generated outputs
+data/
+results/
+outputs/
+logs/
+annotations/
+metrics/
+artifacts/
+checkpoints/
+
+# Manuscripts, results, figures, and archives
+*.doc
+*.docx
+*.odt
+*.rtf
+*.pdf
+*.xlsx
+*.xls
+*.csv
+*.jsonl
+*.parquet
+*.feather
+*.pkl
+*.pickle
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.svg
+
+# Python and local tooling
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# Editors and operating systems
+.DS_Store
+.idea/
+.vscode/
+*~
+*.swp

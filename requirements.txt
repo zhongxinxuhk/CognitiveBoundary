@@ -1,0 +1,2 @@
+# The execution and scoring scripts otherwise use the Python standard library.
+scipy>=1.10,<2.0
